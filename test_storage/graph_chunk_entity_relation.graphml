@@ -10,63 +10,90 @@
   <key id="d6" for="node" attr.name="truncate" attr.type="string" />
   <key id="d5" for="node" attr.name="created_at" attr.type="long" />
   <key id="d4" for="node" attr.name="file_path" attr.type="string" />
-  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
   <key id="d2" for="node" attr.name="description" attr.type="string" />
-  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d1" for="node" attr.name="source_id" attr.type="string" />
   <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Барсик">
-      <data key="d0">Барсик</data>
-      <data key="d1">person</data>
-      <data key="d2">Барсик - главный герой тестовой книги, любящий молоко и спит на подоконнике.</data>
-      <data key="d3">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+    <node id="Barsik">
+      <data key="d0">Barsik</data>
+      <data key="d1">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d2">Barsik likes to drink milk</data>
+      <data key="d3">UNKNOWN</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1781872876</data>
+      <data key="d5">1781888253</data>
       <data key="d6" />
     </node>
-    <node id="книга">
-      <data key="d0">книга</data>
-      <data key="d1">content</data>
-      <data key="d2">Тестовая книга для демонстрации экстракции информации.</data>
-      <data key="d3">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+    <node id="Milk">
+      <data key="d0">Milk</data>
+      <data key="d1">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d2">Barsik likes to drink milk</data>
+      <data key="d3">UNKNOWN</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1781872876</data>
+      <data key="d5">1781888253</data>
       <data key="d6" />
     </node>
-    <node id="карта сокровищ">
-      <data key="d0">карта сокровищ</data>
-      <data key="d3">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
-      <data key="d2">Однажды Барсик нашёл старую карту сокровищ и отправился в путешествие.</data>
-      <data key="d1">UNKNOWN</data>
+    <node id="Podekonnik">
+      <data key="d0">Podekonnik</data>
+      <data key="d1">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d2">Barsik sleeps on the window sill</data>
+      <data key="d3">UNKNOWN</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1781872876</data>
+      <data key="d5">1781888253</data>
       <data key="d6" />
     </node>
-    <node id="подоконник">
-      <data key="d0">подоконник</data>
-      <data key="d3">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
-      <data key="d2">Он любит молоко и спит на подоконнике.</data>
-      <data key="d1">UNKNOWN</data>
+    <node id="Staraia Karta Soakrovishch">
+      <data key="d0">Staraia Karta Soakrovishch</data>
+      <data key="d1">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d2">Barsik found an old treasure map</data>
+      <data key="d3">UNKNOWN</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1781872876</data>
+      <data key="d5">1781888253</data>
       <data key="d6" />
     </node>
-    <edge source="Барсик" target="карта сокровищ">
+    <node id="Testovaya Kniga">
+      <data key="d0">Testovaya Kniga</data>
+      <data key="d1">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d2">Test book is about Barsik's adventures</data>
+      <data key="d3">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781888253</data>
+      <data key="d6" />
+    </node>
+    <edge source="Barsik" target="Milk">
       <data key="d7">1.0</data>
-      <data key="d8">Однажды Барсик нашёл старую карту сокровищ и отправился в путешествие.</data>
-      <data key="d9">found_by,relates_to</data>
+      <data key="d8">Barsik likes to drink milk</data>
+      <data key="d9">likes</data>
       <data key="d10">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
       <data key="d11">unknown_source</data>
-      <data key="d12">1781872876</data>
+      <data key="d12">1781888253</data>
       <data key="d13" />
     </edge>
-    <edge source="Барсик" target="подоконник">
+    <edge source="Barsik" target="Podekonnik">
       <data key="d7">1.0</data>
-      <data key="d8">Он любит молоко и спит на подоконнике.</data>
-      <data key="d9">rests_on,sleeps_on</data>
+      <data key="d8">Barsik sleeps on the window sill</data>
+      <data key="d9">sleeps on</data>
       <data key="d10">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
       <data key="d11">unknown_source</data>
-      <data key="d12">1781872876</data>
+      <data key="d12">1781888253</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Barsik" target="Staraia Karta Soakrovishch">
+      <data key="d7">1.0</data>
+      <data key="d8">Barsik found an old treasure map</data>
+      <data key="d9">found</data>
+      <data key="d10">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781888253</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Barsik" target="Testovaya Kniga">
+      <data key="d7">1.0</data>
+      <data key="d8">Test book is about Barsik's adventures</data>
+      <data key="d9">about</data>
+      <data key="d10">doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781888253</data>
       <data key="d13" />
     </edge>
   </graph>

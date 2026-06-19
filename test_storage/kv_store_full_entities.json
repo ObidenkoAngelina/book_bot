@@ -1,14 +1,15 @@
 {
   "doc-74e273f003dc31f5ee6b33d9c9fd182c": {
     "entity_names": [
-      "книга",
-      "Барсик",
-      "подоконник",
-      "карта сокровищ"
+      "Barsik",
+      "Podekonnik",
+      "Staraia Karta Soakrovishch",
+      "Testovaya Kniga",
+      "Milk"
     ],
-    "count": 4,
-    "create_time": 1781872876,
-    "update_time": 1781872876,
+    "count": 5,
+    "create_time": 1781888253,
+    "update_time": 1781888253,
     "_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c"
   }
 }

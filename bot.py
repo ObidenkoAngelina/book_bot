@@ -35,36 +35,52 @@ async def main():
     for key in list(os.environ.keys()):
         if "OPENAI" in key:
             os.environ.pop(key, None)
-    
-    # --- ИНИЦИАЛИЗАЦИЯ LIGHTRAG С OLLAMA ---
+
+    # --- ИНИЦИАЛИЗАЦИЯ LIGHTRAG С OLLAMA (MISTRAL) ---
     rag = LightRAG(
         working_dir="./test_storage",
         llm_model_func=ollama_model_complete,
         embedding_func=ollama_embed,
-        llm_model_name="llama3.1",
+        llm_model_name="mistral",
     )
 
     await rag.initialize_storages()
-    
+
     # Создаём тестовый файл, если его нет
     if not os.path.exists("test.txt"):
         with open("test.txt", "w", encoding="utf-8") as f:
             f.write("Это тестовая книга. Главный герой — кот по имени Барсик. Он любит молоко и спит на подоконнике. Однажды Барсик нашёл старую карту сокровищ и отправился в путешествие.")
 
-    with open("test.txt", "r", encoding="utf-8") as f:
+    with open("test.txt", "r", encoding="utf-8") as f: 
         text = f.read()
 
-    # --- ИНДЕКСАЦИЯ И ЗАПРОС ---
+    # --- ИНДЕКСАЦИЯ ---
     await rag.ainsert(text)
-    
-    # Получаем полный ответ
-    full_result = await rag.aquery("Что любит Барсик?", param=QueryParam(mode="hybrid"))
-    
-    # Берём только первую строку (сам ответ)
-    short_answer = full_result.split('\n')[0]
-    
-    print("\nОтвет LightRAG (короткий):")
-    print(short_answer)
+    print("\n✅ Книга проиндексирована! Задавайте вопросы (для выхода напишите 'выход'):")
+
+    # --- ЦИКЛ ВВОДА ВОПРОСОВ ---
+    while True:
+        user_question = input("\n❓ Ваш вопрос: ")
+        user_question = user_question + " Отвечай на русском языке."
+
+        if user_question.lower() in ['выход', 'exit', 'quit', 'q']:
+            print("👋 До свидания!")
+            break
+
+        if user_question.strip():
+            print("⏳ Думаю...")
+
+            # --- ЗАПРОС (без system_prompt) ---
+            full_result = await rag.aquery(
+                user_question,
+                param=QueryParam(mode="hybrid")
+            )
+
+            # Берём первую строку (сам ответ)
+            short_answer = full_result.split('\n')[0]
+            print(f"\n📖 Ответ LightRAG:\n{short_answer}\n")
+        else:
+            print("⚠️ Пожалуйста, введите вопрос.")
 
 if __name__ == "__main__":
     asyncio.run(main())
