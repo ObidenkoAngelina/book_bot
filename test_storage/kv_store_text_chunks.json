@@ -1,0 +1,16 @@
+{
+  "doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000": {
+    "tokens": 49,
+    "content": "Это тестовая книга. Главный герой — кот по имени Барсик. Он любит молоко и спит на подоконнике. Однажды Барсик нашёл старую карту сокровищ и отправился в путешествие.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5ed733714e58a9e140a59d7221612ec8",
+      "default:extract:0e1b33d4754240926b273e1532217528"
+    ],
+    "create_time": 1781872442,
+    "update_time": 1781872876,
+    "_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000"
+  }
+}

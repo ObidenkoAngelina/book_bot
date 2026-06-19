@@ -1,0 +1,20 @@
+{
+  "Барсик<SEP>карта сокровищ": {
+    "chunk_ids": [
+      "doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781872876,
+    "update_time": 1781872876,
+    "_id": "Барсик<SEP>карта сокровищ"
+  },
+  "Барсик<SEP>подоконник": {
+    "chunk_ids": [
+      "doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781872876,
+    "update_time": 1781872876,
+    "_id": "Барсик<SEP>подоконник"
+  }
+}

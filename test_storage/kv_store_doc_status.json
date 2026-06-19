@@ -1,0 +1,100 @@
+{
+  "doc-74e273f003dc31f5ee6b33d9c9fd182c": {
+    "status": "processed",
+    "content_summary": "Это тестовая книга. Главный герой — кот по имени Барсик. Он любит молоко и спит на подоконнике. Однажды Барсик нашёл старую карту сокровищ и отправился в путешествие.",
+    "content_length": 166,
+    "created_at": "2026-06-19T12:34:02.864858+00:00",
+    "updated_at": "2026-06-19T12:41:16.738939+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260619_193402_a93991de",
+    "content_hash": "74e273f003dc31f5ee6b33d9c9fd182c",
+    "metadata": {
+      "parse_start_time": 1781872442,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1781872442,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1781872442,
+      "process_end_time": 1781872876,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-74e273f003dc31f5ee6b33d9c9fd182c-chunk-000"
+    ]
+  },
+  "dup-edff1ee04174b71a897bee70223fbd71": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-74e273f003dc31f5ee6b33d9c9fd182c",
+    "content_length": 166,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-06-19T12:57:52.584162+00:00",
+    "updated_at": "2026-06-19T12:57:52.584162+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260619_195752_54860041",
+    "error_msg": "File name already exists. Original doc_id: doc-74e273f003dc31f5ee6b33d9c9fd182c, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c",
+      "original_track_id": "insert_20260619_193402_a93991de"
+    }
+  },
+  "dup-4cb14a33591d51778e019959d7199150": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-74e273f003dc31f5ee6b33d9c9fd182c",
+    "content_length": 166,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-06-19T12:58:29.319843+00:00",
+    "updated_at": "2026-06-19T12:58:29.319843+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260619_195829_01a69fc5",
+    "error_msg": "File name already exists. Original doc_id: doc-74e273f003dc31f5ee6b33d9c9fd182c, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c",
+      "original_track_id": "insert_20260619_193402_a93991de"
+    }
+  },
+  "dup-39aada1e56688e3cd93ce7eff5d94e5e": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-74e273f003dc31f5ee6b33d9c9fd182c",
+    "content_length": 166,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-06-19T14:37:54.226595+00:00",
+    "updated_at": "2026-06-19T14:37:54.226595+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260619_213754_26680099",
+    "error_msg": "File name already exists. Original doc_id: doc-74e273f003dc31f5ee6b33d9c9fd182c, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c",
+      "original_track_id": "insert_20260619_193402_a93991de"
+    }
+  },
+  "dup-11e95de7cfa58db0bae22b12182f0a93": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-74e273f003dc31f5ee6b33d9c9fd182c",
+    "content_length": 166,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-06-19T14:38:03.897475+00:00",
+    "updated_at": "2026-06-19T14:38:03.897475+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260619_213803_d38cfa01",
+    "error_msg": "File name already exists. Original doc_id: doc-74e273f003dc31f5ee6b33d9c9fd182c, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-74e273f003dc31f5ee6b33d9c9fd182c",
+      "original_track_id": "insert_20260619_193402_a93991de"
+    }
+  }
+}
