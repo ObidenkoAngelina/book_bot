@@ -1,0 +1,64 @@
+{
+  "doc-2aaea7b2341885b90d8334ac7a9a217f": {
+    "status": "processed",
+    "content_summary": "Глава 1\n: Туманное утро\r\n\r\nВ зеленом лесу, под старым дубом, жил маленький колючий ежик по имени Пых. Каждое утро он собирал лесные ягоды. Но сегодня солнце скрылось за густым туманом. Ежик смело шагнул в белую пелену, напевая веселую песенку, чтобы ...",
+    "content_length": 269,
+    "created_at": "2026-06-20T11:06:09.017774+00:00",
+    "updated_at": "2026-06-20T11:16:13.582509+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260620_180609_66dacf04",
+    "content_hash": "2aaea7b2341885b90d8334ac7a9a217f",
+    "metadata": {
+      "parse_start_time": 1781953569,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1781953569,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1781953569,
+      "process_end_time": 1781954173,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2aaea7b2341885b90d8334ac7a9a217f-chunk-000"
+    ]
+  },
+  "dup-9514be980ee07f83e2f170c9033439fd": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-2aaea7b2341885b90d8334ac7a9a217f",
+    "content_length": 269,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-06-20T11:19:39.525857+00:00",
+    "updated_at": "2026-06-20T11:19:39.525857+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260620_181939_ce9b55e1",
+    "error_msg": "File name already exists. Original doc_id: doc-2aaea7b2341885b90d8334ac7a9a217f, Status: DocStatus.PROCESSED",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-2aaea7b2341885b90d8334ac7a9a217f",
+      "original_track_id": "insert_20260620_180609_66dacf04"
+    }
+  },
+  "dup-0576068c45ad48ef6a4c29c5a4bd646e": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-2aaea7b2341885b90d8334ac7a9a217f",
+    "content_length": 269,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-06-20T11:36:36.188545+00:00",
+    "updated_at": "2026-06-20T11:36:36.188545+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260620_183636_3251f77c",
+    "error_msg": "File name already exists. Original doc_id: doc-2aaea7b2341885b90d8334ac7a9a217f, Status: processed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-2aaea7b2341885b90d8334ac7a9a217f",
+      "original_track_id": "insert_20260620_180609_66dacf04"
+    }
+  }
+}

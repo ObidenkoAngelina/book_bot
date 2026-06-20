@@ -1,0 +1,19 @@
+{
+  "doc-2aaea7b2341885b90d8334ac7a9a217f": {
+    "content": "Глава 1\n: Туманное утро\r\n\r\nВ зеленом лесу, под старым дубом, жил маленький колючий ежик по имени Пых. Каждое утро он собирал лесные ягоды. Но сегодня солнце скрылось за густым туманом. Ежик смело шагнул в белую пелену, напевая веселую песенку, чтобы не бояться темноты.",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "2aaea7b2341885b90d8334ac7a9a217f",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1781953569,
+    "update_time": 1781953569,
+    "_id": "doc-2aaea7b2341885b90d8334ac7a9a217f"
+  }
+}
