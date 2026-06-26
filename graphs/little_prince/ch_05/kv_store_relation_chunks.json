@@ -1,0 +1,218 @@
+{
+  "Джунгли<SEP>Удав": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Джунгли<SEP>Удав"
+  },
+  "Летчик<SEP>Художник": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Летчик<SEP>Художник"
+  },
+  "Учитель<SEP>Художник": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Учитель<SEP>Художник"
+  },
+  "Удав<SEP>Учитель": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Удав<SEP>Учитель"
+  },
+  "Джунгли<SEP>Учитель": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Джунгли<SEP>Учитель"
+  },
+  "Слон<SEP>Удав": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Слон<SEP>Удав"
+  },
+  "Маленький принц<SEP>Тот человек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "Маленький принц<SEP>Тот человек"
+  },
+  "Person<SEP>Маленький принц": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Person<SEP>Маленький принц"
+  },
+  "Person<SEP>Автор": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Person<SEP>Автор"
+  },
+  "Маленький принц<SEP>астероид В-612": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>астероид В-612"
+  },
+  "взрослых<SEP>мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "взрослых<SEP>мой друг"
+  },
+  "Маленький принц<SEP>взрослые": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>взрослые"
+  },
+  "астероид В-612<SEP>взрослые": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "астероид В-612<SEP>взрослые"
+  },
+  "Маленький принц<SEP>мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>мой друг"
+  },
+  "астероид В-612<SEP>турецкий астроном": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "астероид В-612<SEP>турецкий астроном"
+  },
+  "Маленький принц<SEP>твой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>твой друг"
+  },
+  "бабочек<SEP>мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "бабочек<SEP>мой друг"
+  },
+  "Маленький принц<SEP>твоего друга": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>твоего друга"
+  },
+  "Маленький принц<SEP>бабочки": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>бабочки"
+  },
+  "Маленький принц<SEP>западных детей": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>западных детей"
+  },
+  "Маленький принц<SEP>красивый дом": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>красивый дом"
+  },
+  "Маленький принц<SEP>дети": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>дети"
+  },
+  "Маленький принц<SEP>цифры": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Маленький принц<SEP>цифры"
+  },
+  "Маленький принц<SEP>Троех кустов": {
+    "chunk_ids": [
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408993,
+    "update_time": 1782408993,
+    "_id": "Маленький принц<SEP>Троех кустов"
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "Удав": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Удав"
+  },
+  "Джунгли": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Джунгли"
+  },
+  "Учитель": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Учитель"
+  },
+  "Художник": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Художник"
+  },
+  "Летчик": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Летчик"
+  },
+  "Китай": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Китай"
+  },
+  "Аризона": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Аризона"
+  },
+  "Слон": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Слон"
+  },
+  "Тот человек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "Тот человек"
+  },
+  "Маленький принц": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000",
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000",
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000",
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000",
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000",
+      "doc-483c61454a03ee080cf5d72363c83c1b-chunk-000"
+    ],
+    "count": 7,
+    "update_time": 1782409603,
+    "_id": "Маленький принц"
+  },
+  "Маленький человечек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "Маленький человечек"
+  },
+  "Person": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Person"
+  },
+  "Автор": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Автор"
+  },
+  "Земля": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Земля"
+  },
+  "Марс": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Марс"
+  },
+  "Венера": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Венера"
+  },
+  "астероид В-612": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "астероид В-612"
+  },
+  "Мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Мой друг"
+  },
+  "взрослых": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "взрослых"
+  },
+  "мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "мой друг"
+  },
+  "взрослые": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "взрослые"
+  },
+  "турецкий астроном": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "турецкий астроном"
+  },
+  "бабочек": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "бабочек"
+  },
+  "твой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "твой друг"
+  },
+  "твоего друга": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "твоего друга"
+  },
+  "бабочки": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "бабочки"
+  },
+  "западных детей": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "западных детей"
+  },
+  "красивый дом": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "красивый дом"
+  },
+  "дети": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "дети"
+  },
+  "цифры": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "цифры"
+  },
+  "Троех кустов": {
+    "chunk_ids": [
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408993,
+    "update_time": 1782408993,
+    "_id": "Троех кустов"
+  },
+  "О Маленький принц!": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "О Маленький принц!"
+  },
+  "Маленький принц!": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Маленький принц!"
+  },
+  "Понемногу я понял также, как печальна и однообразна была твоя жизнь.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Понемногу я понял также, как печальна и однообразна была твоя жизнь."
+  },
+  "Я очень люблю закат.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Я очень люблю закат."
+  },
+  "Солнце зашло.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Солнце зашло."
+  },
+  "Знаешь… когда станет очень грустно, хорошо поглядеть, как заходит солнце…": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Знаешь… когда станет очень грустно, хорошо поглядеть, как заходит солнце…"
+  },
+  "Ты видел сорок три заката.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Ты видел сорок три заката."
+  },
+  "Цветок": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1782409232,
+    "_id": "Цветок"
+  },
+  "Барашек": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "Барашек"
+  },
+  "Цветку": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "Цветку"
+  },
+  "барашек": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "барашек"
+  },
+  "barashek": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "barashek"
+  },
+  "Barashhek": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "Barashhek"
+  },
+  "Очень скоро я лучше узнал этот цветок": {
+    "chunk_ids": [
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409476,
+    "update_time": 1782409476,
+    "_id": "Очень скоро я лучше узнал этот цветок"
+  },
+  "неведомая гостья": {
+    "chunk_ids": [
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409521,
+    "update_time": 1782409521,
+    "_id": "неведомая гостья"
+  },
+  "красавица": {
+    "chunk_ids": [
+      "doc-483c61454a03ee080cf5d72363c83c1b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409603,
+    "update_time": 1782409603,
+    "_id": "красавица"
+  },
+  "баробабов": {
+    "chunk_ids": [
+      "doc-483c61454a03ee080cf5d72363c83c1b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409603,
+    "update_time": 1782409603,
+    "_id": "баробабов"
+  }
+}

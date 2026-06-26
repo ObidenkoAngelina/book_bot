@@ -1,0 +1,223 @@
+{
+  "doc-4bbba4040fb365b4890e658b464d7d8e": {
+    "status": "processed",
+    "content_summary": ".\n\nКогда мне было шесть лет, в книге под названием «Правдивые истории», где рассказывалось про девственные леса, я увидел однажды удивительную картинку. На картинке огромная змея — удав — глотала хищного зверя. Вот как это было нарисовано:\n\nВ книге г...",
+    "content_length": 2162,
+    "created_at": "2026-06-26T08:01:46.012281+00:00",
+    "updated_at": "2026-06-26T08:13:19.046988+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_150146_790b9f5f",
+    "content_hash": "4bbba4040fb365b4890e658b464d7d8e",
+    "metadata": {
+      "parse_start_time": 1782460906,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782460906,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782460906,
+      "process_end_time": 1782461599,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000",
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001"
+    ]
+  },
+  "doc-265544bb40b451cd313707a2a4b33ff4": {
+    "status": "processed",
+    "content_summary": ".\n\nТак я жил в одиночестве, и не с кем было мне поговорить по душам. И вот шесть лет тому назад пришлось мне сделать вынужденную посадку в Сахаре. Что-то сломалось в моторе моего самолета. Со мной не было ни механика, ни пассажиров, и я решил, что по...",
+    "content_length": 3421,
+    "created_at": "2026-06-26T08:13:27.111629+00:00",
+    "updated_at": "2026-06-26T08:17:41.831709+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_151327_3a51bfb8",
+    "content_hash": "265544bb40b451cd313707a2a4b33ff4",
+    "metadata": {
+      "parse_start_time": 1782461607,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782461607,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782461607,
+      "process_end_time": 1782461861,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000",
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001",
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-002"
+    ]
+  },
+  "doc-6b2ba88f29d6d77fed85771bc5dc9981": {
+    "status": "processed",
+    "content_summary": ".\n\nНе скоро я понял, откуда он явился. Маленький принц засыпал меня вопросами, но когда я спрашивал о чем-нибудь, он словно и не слышал. Лишь понемногу, из случайных, мимоходом оброненных слов мне все открылось. Так, когда он впервые увидел мой самол...",
+    "content_length": 1956,
+    "created_at": "2026-06-26T08:17:50.825254+00:00",
+    "updated_at": "2026-06-26T08:21:04.384142+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_151750_f2edba6d",
+    "content_hash": "6b2ba88f29d6d77fed85771bc5dc9981",
+    "metadata": {
+      "parse_start_time": 1782461870,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782461870,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782461870,
+      "process_end_time": 1782462064,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000",
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001"
+    ]
+  },
+  "doc-adc6c168dbb425d9ece24d5bc28b2fcc": {
+    "status": "processed",
+    "content_summary": ".\n\nТак я сделал еще одно важное открытие: его родная планета вся-то величиной с дом!\n\nВпрочем, это меня не слишком удивило. Я знал, что, кроме таких больших планет, как Земля, Юпитер, Марс, Венера, существуют еще сотни других и среди них такие малень...",
+    "content_length": 4058,
+    "created_at": "2026-06-26T08:21:10.800439+00:00",
+    "updated_at": "2026-06-26T08:25:01.240864+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_152110_5c0f2c96",
+    "content_hash": "adc6c168dbb425d9ece24d5bc28b2fcc",
+    "metadata": {
+      "parse_start_time": 1782462070,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782462070,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782462070,
+      "process_end_time": 1782462301,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000",
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001",
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002"
+    ]
+  },
+  "doc-1b8b1d20aa2c3a367e6898ef909e1830": {
+    "status": "processed",
+    "content_summary": ".\n\nКаждый день я узнавал что-нибудь новое о его планете, о том, как он ее покинул и как странствовал. Он рассказывал об этом понемножку, когда приходилось к слову. Так, на третий день я узнал о трагедии с баобабами.\n\nЭто тоже вышло из-за барашка. Каз...",
+    "content_length": 3480,
+    "created_at": "2026-06-26T08:25:11.401466+00:00",
+    "updated_at": "2026-06-26T09:40:20.231377+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_152511_d52341c2",
+    "content_hash": "1b8b1d20aa2c3a367e6898ef909e1830",
+    "metadata": {
+      "parse_start_time": 1782462311,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782462311,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782462311,
+      "process_end_time": 1782466820,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000",
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001",
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002"
+    ]
+  },
+  "doc-d41c40884fe33b1d66e53c60eb262f25": {
+    "status": "processed",
+    "content_summary": ".\n\nО Маленький принц! Понемногу я понял также, как печальна и однообразна была твоя жизнь. Долгое время у тебя было лишь одно развлечение: ты любовался закатом. Я узнал об этом наутро четвертого дня, когда ты сказал:\n\n— Я очень люблю закат. Пойдем по...",
+    "content_length": 1094,
+    "created_at": "2026-06-26T09:40:30.861487+00:00",
+    "updated_at": "2026-06-26T09:41:17.480618+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_164030_24cabbf2",
+    "content_hash": "d41c40884fe33b1d66e53c60eb262f25",
+    "metadata": {
+      "parse_start_time": 1782466830,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782466830,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782466830,
+      "process_end_time": 1782466877,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ]
+  },
+  "doc-7ff80b28ae61d87cbbd16fc2977b0881": {
+    "status": "processed",
+    "content_summary": ".\n\nНа пятый день, опять-таки благодаря барашку, я узнал секрет Маленького принца. Он спросил неожиданно, без предисловий, точно пришел к этому выводу после долгих молчаливых раздумий:\n\n— Если барашек есть кусты, он и цветы ест?\n\n— Он есть все, что по...",
+    "content_length": 3851,
+    "created_at": "2026-06-26T09:41:20.022109+00:00",
+    "updated_at": "2026-06-26T10:57:08.037936+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_164120_b06b8dd0",
+    "content_hash": "7ff80b28ae61d87cbbd16fc2977b0881",
+    "metadata": {
+      "parse_start_time": 1782466880,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782466880,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782466880,
+      "process_end_time": 1782471428,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 4,
+    "chunks_list": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-002",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-003"
+    ]
+  },
+  "doc-a4e544d8de8adf2c2d92737023d20063": {
+    "status": "processed",
+    "content_summary": ".\n\nОчень скоро я лучше узнал этот цветок. На планете Маленького принца всегда росли простые, скромные цветы — у них было мало лепестков, они занимали совсем мало места и никого не беспокоили. Они раскрывались поутру в траве и под вечер увядали. А это...",
+    "content_length": 3600,
+    "created_at": "2026-06-26T10:57:19.665036+00:00",
+    "updated_at": "2026-06-26T12:03:06.962781+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_175719_24d75680",
+    "content_hash": "a4e544d8de8adf2c2d92737023d20063",
+    "metadata": {
+      "parse_start_time": 1782471439,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782471439,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782471439,
+      "process_end_time": 1782475386,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000",
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-001",
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-002"
+    ]
+  }
+}

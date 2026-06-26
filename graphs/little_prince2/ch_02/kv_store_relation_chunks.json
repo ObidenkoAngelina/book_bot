@@ -1,0 +1,146 @@
+{
+  "Udav<SEP>主人公": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461599,
+    "update_time": 1782461599,
+    "_id": "Udav<SEP>主人公"
+  },
+  "Хищный зверь<SEP>主人公": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461599,
+    "update_time": 1782461599,
+    "_id": "Хищный зверь<SEP>主人公"
+  },
+  "Джунгли<SEP>主人公": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461599,
+    "update_time": 1782461599,
+    "_id": "Джунгли<SEP>主人公"
+  },
+  "Удав<SEP>主人公": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461599,
+    "update_time": 1782461599,
+    "_id": "Удав<SEP>主人公"
+  },
+  "Шляпа<SEP>主人公": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461599,
+    "update_time": 1782461599,
+    "_id": "Шляпа<SEP>主人公"
+  },
+  "Взрослые<SEP>主人公": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461599,
+    "update_time": 1782461599,
+    "_id": "Взрослые<SEP>主人公"
+  },
+  "Artifact<SEP>Person": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Artifact<SEP>Person"
+  },
+  "Малыш<SEP>он": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Малыш<SEP>он"
+  },
+  "Персонаж<SEP>змея": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Персонаж<SEP>змея"
+  },
+  "баран<SEP>не барашек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "баран<SEP>не барашек"
+  },
+  "Маленького принца<SEP>судья": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Маленького принца<SEP>судья"
+  },
+  "баран<SEP>малышу": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "баран<SEP>малышу"
+  },
+  "Малыш<SEP>персонаж": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Малыш<SEP>персонаж"
+  },
+  "Маленького принца<SEP>не барашек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Маленького принца<SEP>не барашек"
+  },
+  "Персонаж<SEP>баран": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Персонаж<SEP>баран"
+  },
+  "Персонаж<SEP>ящик": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782461861,
+    "update_time": 1782461861,
+    "_id": "Персонаж<SEP>ящик"
+  }
+}

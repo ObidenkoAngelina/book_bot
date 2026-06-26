@@ -1,0 +1,1369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Удав">
+      <data key="d0">Удав</data>
+      <data key="d1">creature</data>
+      <data key="d2">Fictional snake with the ability to swallow large prey whole and remain immobile for 6 months after doing so, as mentioned in the text.&lt;SEP&gt;Large snake with a habit of swallowing its prey whole and resting for 6 months after doing so. A fictional creature from the text.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Хищный зверь">
+      <data key="d0">Хищный зверь</data>
+      <data key="d1">creature</data>
+      <data key="d2">Wild animal that is preyed upon by the snake in the text.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Джунгли">
+      <data key="d0">Джунгли</data>
+      <data key="d1">location</data>
+      <data key="d2">Wild jungle where the story takes place and which is mentioned as having thrilling adventures.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Шляпа">
+      <data key="d0">Шляпа</data>
+      <data key="d1">content</data>
+      <data key="d2">Hat that was interpreted by the child to be a representation of the inside of the snake, as mentioned in the text.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Взрослые">
+      <data key="d0">Взрослые</data>
+      <data key="d1">organization</data>
+      <data key="d2">Adults or older individuals mentioned in the text as characters who are described and interacted with by the child.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Китай">
+      <data key="d0">Китай</data>
+      <data key="d1">location</data>
+      <data key="d2">Geographical place in East Asia and one of the five ancient civilizations</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Аризону">
+      <data key="d0">Аризону</data>
+      <data key="d1">location</data>
+      <data key="d2">State in southwestern United States</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="свет. И география, по правде сказать, мне очень пригодилась.">
+      <data key="d0">свет. И география, по правде сказать, мне очень пригодилась.</data>
+      <data key="d1">other</data>
+      <data key="d2">Description of the relevance of geography and the author's experience with it</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="много">
+      <data key="d0">много</data>
+      <data key="d1">data</data>
+      <data key="d2">Amount of encounters with different serious people over time</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="взрослых. Я долго жил среди взрослых.">
+      <data key="d0">взрослых. Я долго жил среди взрослых.</data>
+      <data key="d1">other</data>
+      <data key="d2">Description of the author's life among adults for a long period of time</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="взрослого, который казался мне разумней и понятливей других">
+      <data key="d0">взрослого, который казался мне разумней и понятливей других</data>
+      <data key="d1">person</data>
+      <data key="d2">A person who appears more intelligent and easier to understand than others</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Казался мне разумней и понятливей других.">
+      <data key="d0">Казался мне разумней и понятливей других.</data>
+      <data key="d1">other</data>
+      <data key="d2">Description of the perception by the author</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="записал рисунок №1 - я его сохранил и всегда носил с собою.">
+      <data key="d0">записал рисунок №1 - я его сохранил и всегда носил с собою.</data>
+      <data key="d1">content</data>
+      <data key="d2">The author kept and always carried a sketch number 1 which he drew</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="нужно было знать, вправду ли этот человек что-то понимает. Но все они отвечали ему: «Это шляпа». И я уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.">
+      <data key="d0">нужно было знать, вправду ли этот человек что-то понимает. Но все они отвечали ему: «Это шляпа». И я уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.</data>
+      <data key="d1">event</data>
+      <data key="d2">The author’s interaction with adults and their responses to his questions</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.">
+      <data key="d0">уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.</data>
+      <data key="d1">event</data>
+      <data key="d2">The author stopped talking about certain topics with these people due to their responses</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Arizona">
+      <data key="d0">Arizona</data>
+      <data key="d1">location</data>
+      <data key="d2">State in southwestern United States</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Udav">
+      <data key="d0">Udav</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d2">The character feared the real-life creature described in the story.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="主人公">
+      <data key="d0">主人公</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d2">The character feared the real-life creature described in the story.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Person">
+      <data key="d0">Person</data>
+      <data key="d1">person</data>
+      <data key="d2">Human being experiencing isolation and survival in the desert.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000&lt;SEP&gt;doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Artifact">
+      <data key="d0">Artifact</data>
+      <data key="d1">data</data>
+      <data key="d2">Information about a broken airplane engine and resources available during the desert landing.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Малыш">
+      <data key="d0">Малыш</data>
+      <data key="d1">person</data>
+      <data key="d2">Lost child in the desert&lt;SEP&gt;Unnamed character in the text</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001&lt;SEP&gt;doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Персонаж">
+      <data key="d0">Персонаж</data>
+      <data key="d1">person</data>
+      <data key="d2">Unknown character</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Змея">
+      <data key="d0">Змея</data>
+      <data key="d1">other</data>
+      <data key="d2">Snake</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Баран">
+      <data key="d0">Баран</data>
+      <data key="d1">other</data>
+      <data key="d2">Bull</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="не барашек">
+      <data key="d0">не барашек</data>
+      <data key="d1">person</data>
+      <data key="d2">Human individual mentioned in the text, a fictional character in the story.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="баран">
+      <data key="d0">баран</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abstract idea or concept, possibly referring to 'bull' in this context as it's part of the name "барашек".</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002&lt;SEP&gt;doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="малышу">
+      <data key="d0">малышу</data>
+      <data key="d1">person</data>
+      <data key="d2">A fictional character mentioned in the text.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="судья">
+      <data key="d0">судья</data>
+      <data key="d1">person</data>
+      <data key="d2">A judge or person who makes decisions, appearing in a hypothetical scenario within the story.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Маленького принца">
+      <data key="d0">Маленького принца</data>
+      <data key="d1">other</data>
+      <data key="d2">The name of a character introduced in the story.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="он">
+      <data key="d0">он</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="змея">
+      <data key="d0">змея</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="персонаж">
+      <data key="d0">персонаж</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="ящик">
+      <data key="d0">ящик</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Маленький принц">
+      <data key="d0">Маленький принц</data>
+      <data key="d1">person</data>
+      <data key="d2">Unnamed character in the text&lt;SEP&gt;Princess Ali Baba's son from the desert, a young prince who is lost in space and time.&lt;SEP&gt;Real human individual in a story&lt;SEP&gt;Unnamed prince from a book "The Little Prince"</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000&lt;SEP&gt;doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001&lt;SEP&gt;doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001&lt;SEP&gt;doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000&lt;SEP&gt;doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="Мой самолет">
+      <data key="d0">Мой самолет</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The narrator's toy airplane that represents his only means of escape to Earth.</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Барашек">
+      <data key="d0">Барашек</data>
+      <data key="d1">concept</data>
+      <data key="d2">Unnamed concept introduced in the text</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Ты">
+      <data key="d0">Ты</data>
+      <data key="d1">other</data>
+      <data key="d2">Unnamed pronoun used in text</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="myself">
+      <data key="d0">myself</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d2">Questions the airplane and learns about its creator.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Друг">
+      <data key="d0">Друг</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">friendliness</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Дом">
+      <data key="d0">Дом</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">habitat, shelter</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Ящик">
+      <data key="d0">Ящик</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">storage place for the barashok</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Веревка">
+      <data key="d0">Веревка</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">leaving a pet free to roam</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Колышек">
+      <data key="d0">Колышек</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">using a dollhouse as a plaything</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="астероид В-612">
+      <data key="d0">астероид В-612</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Asteroid that landed on the planet of "The Little Prince"</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="Турецкий астроном">
+      <data key="d0">Турецкий астроном</data>
+      <data key="d1">person</data>
+      <data key="d2">Turkish astronomer who made the discovery of asteroid V-612.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="my pain">
+      <data key="d0">my pain</data>
+      <data key="d1">concept</data>
+      <data key="d2">My emotional distress described as physical pain and discomfort from remembering a little friend.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="little friend">
+      <data key="d0">little friend</data>
+      <data key="d1">person</data>
+      <data key="d2">A deceased childhood companion, a small animal that left their company six years ago.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="six years">
+      <data key="d0">six years</data>
+      <data key="d1">data</data>
+      <data key="d2">Number of years since my little friend left.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="adults">
+      <data key="d0">adults</data>
+      <data key="d1">organization</data>
+      <data key="d2">Parents or adults who lack interests beyond numbers.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="art supplies">
+      <data key="d0">art supplies</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Painting tools purchased to try and remember my little friend through art.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="portraits">
+      <data key="d0">portraits</data>
+      <data key="d1">content</data>
+      <data key="d2">Paintings or drawings I intend to make with my new tools as a means of remembering my little friend.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="clothing colors">
+      <data key="d0">clothing colors</data>
+      <data key="d1">data</data>
+      <data key="d2">Colored clothing worn by my little friend during their time with me.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="artwork details">
+      <data key="d0">artwork details</data>
+      <data key="d1">method</data>
+      <data key="d2">Artistic representation techniques I am struggling with in order to remember my little friend.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="growth">
+      <data key="d0">growth</data>
+      <data key="d1">concept</data>
+      <data key="d2">Physical and mental development I am experiencing due to returning to painting at an older age.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="lost childhood">
+      <data key="d0">lost childhood</data>
+      <data key="d1">concept</data>
+      <data key="d2">Growth experienced due to the absence of a significant figure (my little friend) during early development.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="он сам">
+      <data key="d0">он сам</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d2">形容特征</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="他">
+      <data key="d0">他</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d2">表示有</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="他的朋友">
+      <data key="d0">他的朋友</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d2">不再</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="asteroid В-612">
+      <data key="d0">asteroid В-612</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">Landed on planet belonging to the Little Prince.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462301</data>
+      <data key="d6" />
+    </node>
+    <node id="лентяй">
+      <data key="d0">лентяй</data>
+      <data key="d1">person</data>
+      <data key="d2">A character in the text who speaks and acts as a narrator.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="маленький принц">
+      <data key="d0">маленький принц</data>
+      <data key="d1">person</data>
+      <data key="d2">A character in the text who narrates and provides detailed information.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="baобабы">
+      <data key="d0">baобабы</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Baobab trees, a specific natural object discussed in the text.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="астероид">
+      <data key="d0">астероид</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Asteroid, a natural object mentioned in relation to baobabs and risk.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Каждый день я узнавал что-нибудь новое о его планете">
+      <data key="d0">Каждый день я узнавал что-нибудь новое о его планете</data>
+      <data key="d1">person</data>
+      <data key="d2">Speaker of the narrator describing his learning about a planet every day.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Коза">
+      <data key="d0">Коза</data>
+      <data key="d1">creature</data>
+      <data key="d2">A small prince mentions that goats eat bushes, implying they also eat baobabs.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Baobab Tree">
+      <data key="d0">Baobab Tree</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">A large tree on the planet, taller than a bell tower.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Elephant">
+      <data key="d0">Elephant</data>
+      <data key="d1">other</data>
+      <data key="d2">A large land mammal mentioned by the Small Prince in jest.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Small Prince">
+      <data key="d0">Small Prince</data>
+      <data key="d1">person</data>
+      <data key="d2">A character who is questioning and using logical reasoning about the planet's vegetation.&lt;SEP&gt;A character who asks if small baobabs are good or bad for goats.&lt;SEP&gt;A character who asks about the size of baobabs.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Kozha">
+      <data key="d0">Kozha</data>
+      <data key="d1">creature</data>
+      <data key="d2">A female goat, the one who ate bushes as mentioned by the Small Prince.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Content">
+      <data key="d0">Content</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="NaturalObject">
+      <data key="d0">NaturalObject</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Location">
+      <data key="d0">Location</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Семена баобаба">
+      <data key="d0">Семена баобаба</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Баобаб">
+      <data key="d0">Баобаб</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Планета Маленького принца">
+      <data key="d0">Планета Маленького принца</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Event">
+      <data key="d0">Event</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Принцесса маленького планеты">
+      <data key="d0">Принцесса маленького планеты</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Полет в космос">
+      <data key="d0">Полет в космос</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="дети">
+      <data key="d0">дети</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d2">Warn friends about the danger of baobabs.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="His Planet">
+      <data key="d0">His Planet</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d2">learned information about the planet over time.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="деревья">
+      <data key="d0">деревья</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d2">Indicates that the small prince is related to trees through providing detailed information.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Karl Marx">
+      <data key="d0">Karl Marx</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d2">learned information about the planet over time.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Полет в косmos">
+      <data key="d0">Полет в косmos</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d2">The knowledge about managing baobab seeds can be applied to understanding and dealing with similar problems in space.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Baobab Trees">
+      <data key="d0">Baobab Trees</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d2">The prince wants to understand whether eating small baobabs is harmful.&lt;SEP&gt;The goats eat the baobabs and are not like a bell tower.&lt;SEP&gt;If they do, then the baobabs also eat.&lt;SEP&gt;The baobabs are not trees.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Goats">
+      <data key="d0">Goats</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d2">The goats eat the baobabs and are not like a bell tower.&lt;SEP&gt;The goats and baobabs are not similar in size.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Elephants">
+      <data key="d0">Elephants</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d2">The elephants would be too big for one baobab.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <node id="Baobabs">
+      <data key="d0">Baobabs</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d2">The prince wants to understand whether eating small baobabs is harmful.&lt;SEP&gt;The prince wants to understand if eating small baobabs is harmful.&lt;SEP&gt;The prince is trying to understand the size of baobabs.&lt;SEP&gt;The baobabs are not trees and are huge.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782466820</data>
+      <data key="d6" />
+    </node>
+    <edge source="Удав" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character fears a fictional snake creature described in the text.</data>
+      <data key="d9">fears</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Хищный зверь" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character was prey to the fictional creature described in the story.</data>
+      <data key="d9">prey</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Джунгли" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character imagined a thrilling adventure in the jungle setting described in the text.</data>
+      <data key="d9">imagined_adventure</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Шляпа" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character misunderstood the hat to represent the inside of the snake.</data>
+      <data key="d9">misunderstood_representation</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Взрослые" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character questioned adults about the fictional snake creature depicted in the texts.</data>
+      <data key="d9">questioned</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Udav" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character feared the real-life creature described in the story.</data>
+      <data key="d9">feared</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Person" target="Artifact">
+      <data key="d7">1.0</data>
+      <data key="d8">Desperate person seeks assistance from an unusual entity encountered in the desert.</data>
+      <data key="d9">Information about a broken airplane engine and resources available during the desert landing</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Person" target="Маленький принц">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">The main character in the story,a prince from a small planet who loves nature and has wisdom about gardening.</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Person" target="Принцесса маленького планеты">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">A character in the story,daughter of a small planets ruler who is unaware of the danger caused by baobab seeds.</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="он">
+      <data key="d7">1.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">was seeking for help</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="персонаж">
+      <data key="d7">4.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">described the new drawing as bull,lost patience with illustration request,refused older drawing of bull,sought for illustration</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Барашек">
+      <data key="d7">1.0</data>
+      <data key="d8">child playing with an imaginary pet</data>
+      <data key="d9">для угощения</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Друг">
+      <data key="d7">1.0</data>
+      <data key="d8">friendliness</data>
+      <data key="d9">сообщение</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Дом">
+      <data key="d7">1.0</data>
+      <data key="d8">habitat, shelter</data>
+      <data key="d9">обитель</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Маленький принц">
+      <data key="d7">1.0</data>
+      <data key="d8">child being confident and understanding geography</data>
+      <data key="d9">знание местности,самоуверенность</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Персонаж" target="змея">
+      <data key="d7">1.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">needed illustration of snake</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Персонаж" target="баран">
+      <data key="d7">3.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">desired a longer-living bull,desired a younger-looking bull,requested a new drawing of bull</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Персонаж" target="ящик">
+      <data key="d7">1.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">provided the child with an empty box</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="не барашек" target="баран">
+      <data key="d7">1.0</data>
+      <data key="d8">a human individual is described as resembling a barashok.</data>
+      <data key="d9">barashok,bull</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="не барашек" target="Маленького принца">
+      <data key="d7">1.0</data>
+      <data key="d8">A small barashok is given to the Little Prince.</data>
+      <data key="d9">providing food,providing nourishment</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="баран" target="малышу">
+      <data key="d7">1.0</data>
+      <data key="d8">The barashok is given to the little boy.</data>
+      <data key="d9">giving,providing</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="судья" target="Маленького принца">
+      <data key="d7">1.0</data>
+      <data key="d8">The judge is described as being amazed at the Little Prince's response to the barashok.</data>
+      <data key="d9">amazed,impressed</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="myself">
+      <data key="d7">1.0</data>
+      <data key="d8">Questions the airplane and learns about its creator.</data>
+      <data key="d9">asked_the_same_question</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Мой самолет">
+      <data key="d7">1.0</data>
+      <data key="d8">The narrator learns about the airplane from the prince.</data>
+      <data key="d9">learned_about_</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Барашек">
+      <data key="d7">1.0</data>
+      <data key="d8">child understanding and managing the situation</data>
+      <data key="d9">для угощения,знание местности,самоуверенность</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Ящик">
+      <data key="d7">1.0</data>
+      <data key="d8">storage place for the barashok</data>
+      <data key="d9">сохранение,хранение</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Друг">
+      <data key="d7">1.0</data>
+      <data key="d8">friend's humorous response</data>
+      <data key="d9">общение,шутка</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Веревка">
+      <data key="d7">1.0</data>
+      <data key="d8">leaving a pet free to roam</data>
+      <data key="d9">воздержание от привязывания</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Колышек">
+      <data key="d7">1.0</data>
+      <data key="d8">using a dollhouse as a plaything</data>
+      <data key="d9">для угощения,осмотрительность</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Дом">
+      <data key="d7">1.0</data>
+      <data key="d8">place of residence</data>
+      <data key="d9">обитель</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="он сам">
+      <data key="d7">1.0</data>
+      <data key="d8">形容特征</data>
+      <data key="d9">very nice,was very</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="他">
+      <data key="d7">1.0</data>
+      <data key="d8">表示有</data>
+      <data key="d9">had a rooster</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="他的朋友">
+      <data key="d7">1.0</data>
+      <data key="d8">不再</data>
+      <data key="d9">not any more</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="asteroid В-612">
+      <data key="d7">1.0</data>
+      <data key="d8">Landed on planet belonging to the Little Prince.</data>
+      <data key="d9">lived_on_planet</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Турецкий астроном">
+      <data key="d7">1.0</data>
+      <data key="d8">Made the discovery of the asteroid V-612 while dressed in Turkish attire.</data>
+      <data key="d9">made_discovery</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Семена баобаба">
+      <data key="d7">1.0</data>
+      <data key="d8">The prince shares his knowledge on how to identify and deal with baobab seeds with the narrator.</data>
+      <data key="d9">Учится о семенах баобаба</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Принцесса маленького планеты">
+      <data key="d7">1.0</data>
+      <data key="d8">The prince teaches his daughter about baobab seeds and their potential danger.</data>
+      <data key="d9">Учительница и ученица</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="my pain" target="little friend">
+      <data key="d7">1.0</data>
+      <data key="d8">The relationship between my emotional distress and the loss of a little friend who left me.</data>
+      <data key="d9">lost_animal,missed_friend</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="my pain" target="six years">
+      <data key="d7">1.0</data>
+      <data key="d8">The temporal distance between the present moment and when my little friend left me.</data>
+      <data key="d9">past_life,time_passed</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="little friend" target="adults">
+      <data key="d7">1.0</data>
+      <data key="d8">The contrast between the value of my little friend and the perceived insignificance of adults in their lives.</data>
+      <data key="d9">forgotten_one,insignificant_friend</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="little friend" target="art supplies">
+      <data key="d7">1.0</data>
+      <data key="d8">The contrast between the value of remembering my little friend and the value placed on art supplies by adults.</data>
+      <data key="d9">forgotten_one,insignificant_friend</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="little friend" target="portraits">
+      <data key="d7">1.0</data>
+      <data key="d8">The intent to create artworks that serve as a way to remember and honor the memory of my little friend.</data>
+      <data key="d9">memory_art,remembrance</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="little friend" target="clothing colors">
+      <data key="d7">1.0</data>
+      <data key="d8">The inability to recall the specific color of my little friend's clothing as a reflection of fading memories.</data>
+      <data key="d9">faded_memory,lost_color</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="little friend" target="artwork details">
+      <data key="d7">1.0</data>
+      <data key="d8">The challenges of accurately representing a little friend through art as a result of incomplete or flawed memories.</data>
+      <data key="d9">misrepresentation,misunderstood_art</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="little friend" target="growth">
+      <data key="d7">1.0</data>
+      <data key="d8">The connection between the growth that has occurred since my little friend's departure from me and how it relates to their absence in my life.</data>
+      <data key="d9">lost_childhood,missing_friend</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462301</data>
+      <data key="d13" />
+    </edge>
+    <edge source="лентяй" target="дети">
+      <data key="d7">1.0</data>
+      <data key="d8">Warn friends about the danger of baobabs.</data>
+      <data key="d9">warning</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="лентяй" target="маленький принц">
+      <data key="d7">1.0</data>
+      <data key="d8">Describes how the narrator learned about baobabs from a small prince.</data>
+      <data key="d9">informant</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="маленький принц" target="астероид">
+      <data key="d7">2.0</data>
+      <data key="d8">Describes the danger of asteroids to those who encounter them.</data>
+      <data key="d9">threat</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="маленький принц" target="деревья">
+      <data key="d7">1.0</data>
+      <data key="d8">Indicates that the small prince is related to trees through providing detailed information.</data>
+      <data key="d9">related_to</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Small Prince" target="Kozha">
+      <data key="d7">1.0</data>
+      <data key="d8">Is it true that the goats eat bushes?</data>
+      <data key="d9">asked by</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Small Prince" target="Baobab Trees">
+      <data key="d7">552.0</data>
+      <data key="d8">The prince wants to understand whether eating small baobabs is harmful.&lt;SEP&gt;The goats eat the baobabs and are not like a bell tower.&lt;SEP&gt;If they do, then the baobabs also eat.&lt;SEP&gt;The baobabs are not trees.</data>
+      <data key="d9">related to</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Small Prince" target="Goats">
+      <data key="d7">3.0</data>
+      <data key="d8">The goats eat the baobabs and are not like a bell tower.&lt;SEP&gt;The goats and baobabs are not similar in size.</data>
+      <data key="d9">related to</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Small Prince" target="Elephants">
+      <data key="d7">1.0</data>
+      <data key="d8">The elephants would be too big for one baobab.</data>
+      <data key="d9">related to</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Small Prince" target="Baobabs">
+      <data key="d7">4.0</data>
+      <data key="d8">The prince wants to understand whether eating small baobabs is harmful.&lt;SEP&gt;The prince wants to understand if eating small baobabs is harmful.&lt;SEP&gt;The prince is trying to understand the size of baobabs.&lt;SEP&gt;The baobabs are not trees and are huge.</data>
+      <data key="d9">related to</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Семена баобаба">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">Invisible seeds that grow into baobab trees. They are hidden underground and can only sprout when one decides to do so.</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NaturalObject" target="Баобаб">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">A large tree native to tropical regions,known for its ability to grow massive roots that can take over a planet.</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Location" target="Планета Маленького принца">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">The home planet of the story's main character and his daughter.</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Семена баобаба" target="Баобаб">
+      <data key="d7">1.0</data>
+      <data key="d8">Baobab seeds are the root cause of various issues caused by baobab trees, especially when not managed properly.</data>
+      <data key="d9">Изменение</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Семена баобаба" target="Планета Маленького принца">
+      <data key="d7">1.0</data>
+      <data key="d8">Baobab seeds can spread over a planet, causing significant harm if not controlled.</data>
+      <data key="d9">Вредоносность</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Семена баобаба" target="Полет в косmos">
+      <data key="d7">1.0</data>
+      <data key="d8">The knowledge about managing baobab seeds can be applied to understanding and dealing with similar problems in space.</data>
+      <data key="d9">Применение знаний по уходу за садом на путешествие</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Планета Маленького принца" target="Принцесса маленького планеты">
+      <data key="d7">1.0</data>
+      <data key="d8">The princess learns from her father, the prince, about managing baobab seeds and their potential damage to the planet.</data>
+      <data key="d9">Ученица и учительница</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Event" target="Полет в космос">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">A hypothetical journey in space where children might encounter the dangers posed by baobab trees.</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+    <edge source="His Planet" target="Karl Marx">
+      <data key="d7">1.0</data>
+      <data key="d8">learned information about the planet over time.</data>
+      <data key="d9">visited by</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782466820</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

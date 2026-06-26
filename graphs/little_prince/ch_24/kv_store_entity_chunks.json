@@ -1,0 +1,1111 @@
+{
+  "Удав": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Удав"
+  },
+  "Джунгли": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Джунгли"
+  },
+  "Учитель": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Учитель"
+  },
+  "Художник": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Художник"
+  },
+  "Летчик": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Летчик"
+  },
+  "Китай": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Китай"
+  },
+  "Аризона": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Аризона"
+  },
+  "Слон": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Слон"
+  },
+  "Тот человек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "Тот человек"
+  },
+  "Маленький принц": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000",
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000",
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000",
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000",
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000",
+      "doc-483c61454a03ee080cf5d72363c83c1b-chunk-000",
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000",
+      "doc-f22f66c8caa291e65e02b802daf878c8-chunk-000",
+      "doc-b26c7bacf26ef15a3a45c68b68f9b575-chunk-000",
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-001",
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000",
+      "doc-182370cff63e636c1b45ff0038b36f2d-chunk-000",
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-000",
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-001",
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000",
+      "doc-b2ddc1d164c8ac85ef4ad08ae708f127-chunk-000",
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000",
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000",
+      "doc-15468bcb7ce72586bfabdda9ece08444-chunk-000",
+      "doc-46fdf55d158045ca310db2834879aaf8-chunk-000",
+      "doc-46fdf55d158045ca310db2834879aaf8-chunk-001",
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000",
+      "doc-7a5f69411979c59a0575f42c23b45672-chunk-000"
+    ],
+    "count": 24,
+    "update_time": 1782427264,
+    "_id": "Маленький принц"
+  },
+  "Маленький человечек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "Маленький человечек"
+  },
+  "Person": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000",
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000",
+      "doc-b26c7bacf26ef15a3a45c68b68f9b575-chunk-000",
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 4,
+    "update_time": 1782419327,
+    "_id": "Person"
+  },
+  "Автор": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Автор"
+  },
+  "Земля": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000",
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-001",
+      "doc-02555b4cb802ac03b0b419f4ee2eb508-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1782418829,
+    "_id": "Земля"
+  },
+  "Марс": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Марс"
+  },
+  "Венера": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Венера"
+  },
+  "астероид В-612": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "астероид В-612"
+  },
+  "Мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "Мой друг"
+  },
+  "взрослых": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "взрослых"
+  },
+  "мой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "мой друг"
+  },
+  "взрослые": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "взрослые"
+  },
+  "турецкий астроном": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "турецкий астроном"
+  },
+  "бабочек": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "бабочек"
+  },
+  "твой друг": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "твой друг"
+  },
+  "твоего друга": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "твоего друга"
+  },
+  "бабочки": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "бабочки"
+  },
+  "западных детей": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "западных детей"
+  },
+  "красивый дом": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "красивый дом"
+  },
+  "дети": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "дети"
+  },
+  "цифры": {
+    "chunk_ids": [
+      "doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "цифры"
+  },
+  "Троех кустов": {
+    "chunk_ids": [
+      "doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408993,
+    "update_time": 1782408993,
+    "_id": "Троех кустов"
+  },
+  "О Маленький принц!": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "О Маленький принц!"
+  },
+  "Маленький принц!": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Маленький принц!"
+  },
+  "Понемногу я понял также, как печальна и однообразна была твоя жизнь.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Понемногу я понял также, как печальна и однообразна была твоя жизнь."
+  },
+  "Я очень люблю закат.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Я очень люблю закат."
+  },
+  "Солнце зашло.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Солнце зашло."
+  },
+  "Знаешь… когда станет очень грустно, хорошо поглядеть, как заходит солнце…": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Знаешь… когда станет очень грустно, хорошо поглядеть, как заходит солнце…"
+  },
+  "Ты видел сорок три заката.": {
+    "chunk_ids": [
+      "doc-d41c40884fe33b1d66e53c60eb262f25-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "Ты видел сорок три заката."
+  },
+  "Цветок": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001",
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000",
+      "doc-b2ddc1d164c8ac85ef4ad08ae708f127-chunk-000",
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000"
+    ],
+    "count": 4,
+    "update_time": 1782419413,
+    "_id": "Цветок"
+  },
+  "Барашек": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "Барашек"
+  },
+  "Цветку": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "Цветку"
+  },
+  "барашек": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "барашек"
+  },
+  "barashek": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "barashek"
+  },
+  "Barashhek": {
+    "chunk_ids": [
+      "doc-7ff80b28ae61d87cbbd16fc2977b0881-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "Barashhek"
+  },
+  "Очень скоро я лучше узнал этот цветок": {
+    "chunk_ids": [
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409476,
+    "update_time": 1782409476,
+    "_id": "Очень скоро я лучше узнал этот цветок"
+  },
+  "неведомая гостья": {
+    "chunk_ids": [
+      "doc-a4e544d8de8adf2c2d92737023d20063-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409521,
+    "update_time": 1782409521,
+    "_id": "неведомая гостья"
+  },
+  "красавица": {
+    "chunk_ids": [
+      "doc-483c61454a03ee080cf5d72363c83c1b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409603,
+    "update_time": 1782409603,
+    "_id": "красавица"
+  },
+  "баробабов": {
+    "chunk_ids": [
+      "doc-483c61454a03ee080cf5d72363c83c1b-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782409603,
+    "update_time": 1782409603,
+    "_id": "баробабов"
+  },
+  "Corporal Power": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Corporal Power"
+  },
+  "Nobbling Prince": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Nobbling Prince"
+  },
+  "King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "King"
+  },
+  "Old Rat": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Old Rat"
+  },
+  "The King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "The King"
+  },
+  "The Little Prince": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "The Little Prince"
+  },
+  "Artifact": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Artifact"
+  },
+  "Subordinate People": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Subordinate People"
+  },
+  "Астероиды 325-330": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Астероиды 325-330"
+  },
+  "Король": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Король"
+  },
+  "Order People": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Order People"
+  },
+  "Corporation King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Corporation King"
+  },
+  "Answer People": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Answer People"
+  },
+  "Command King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Command King"
+  },
+  "Question King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Question King"
+  },
+  "Allow People": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Allow People"
+  },
+  "Request King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Request King"
+  },
+  "Respond Authority People": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Respond Authority People"
+  },
+  "Question Authority King": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Question Authority King"
+  },
+  "Reflect People": {
+    "chunk_ids": [
+      "doc-80bf0fd8d2ff27add315189775433556-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413003,
+    "update_time": 1782413003,
+    "_id": "Reflect People"
+  },
+  "Честолюбец": {
+    "chunk_ids": [
+      "doc-f22f66c8caa291e65e02b802daf878c8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413081,
+    "update_time": 1782413081,
+    "_id": "Честолюбец"
+  },
+  "пьяница": {
+    "chunk_ids": [
+      "doc-b26c7bacf26ef15a3a45c68b68f9b575-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413129,
+    "update_time": 1782413129,
+    "_id": "пьяница"
+  },
+  "Четвертая планета": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413490,
+    "update_time": 1782413490,
+    "_id": "Четвертая планета"
+  },
+  "деловому человеку": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413490,
+    "update_time": 1782413490,
+    "_id": "деловому человеку"
+  },
+  "Маленького принца": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413490,
+    "update_time": 1782413490,
+    "_id": "Маленького принца"
+  },
+  "Institute of Advanced Studies": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413490,
+    "update_time": 1782413490,
+    "_id": "Institute of Advanced Studies"
+  },
+  "Этого": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782413490,
+    "update_time": 1782413490,
+    "_id": "Этого"
+  },
+  "Четвертой планете": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413504,
+    "update_time": 1782413504,
+    "_id": "Четвертой планете"
+  },
+  "человеку": {
+    "chunk_ids": [
+      "doc-2893ddee83e92a02b0b7d4a6d9224c42-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413517,
+    "update_time": 1782413517,
+    "_id": "человеку"
+  },
+  "Пятая планета": {
+    "chunk_ids": [
+      "doc-182370cff63e636c1b45ff0038b36f2d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413793,
+    "update_time": 1782413793,
+    "_id": "Пятая планета"
+  },
+  "Фонарь": {
+    "chunk_ids": [
+      "doc-182370cff63e636c1b45ff0038b36f2d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413793,
+    "update_time": 1782413793,
+    "_id": "Фонарь"
+  },
+  "Фонарщик": {
+    "chunk_ids": [
+      "doc-182370cff63e636c1b45ff0038b36f2d-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782413793,
+    "update_time": 1782413793,
+    "_id": "Фонарщик"
+  },
+  "Старик": {
+    "chunk_ids": [
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782418644,
+    "update_time": 1782418644,
+    "_id": "Старик"
+  },
+  "Смотрите-ка! Вот прибыл путешественник!": {
+    "chunk_ids": [
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782418644,
+    "update_time": 1782418644,
+    "_id": "Смотрите-ка! Вот прибыл путешественник!"
+  },
+  "UNICORNS": {
+    "chunk_ids": [
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782418644,
+    "update_time": 1782418644,
+    "_id": "UNICORNS"
+  },
+  "Географ": {
+    "chunk_ids": [
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782418644,
+    "update_time": 1782418644,
+    "_id": "Географ"
+  },
+  "Цветок на его планете": {
+    "chunk_ids": [
+      "doc-63642680210ac7cc8853ae5971b0f48c-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782418663,
+    "update_time": 1782418663,
+    "_id": "Цветок на его планете"
+  },
+  "Итак": {
+    "chunk_ids": [
+      "doc-02555b4cb802ac03b0b419f4ee2eb508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782418829,
+    "update_time": 1782418829,
+    "_id": "Итак"
+  },
+  "наш мир": {
+    "chunk_ids": [
+      "doc-02555b4cb802ac03b0b419f4ee2eb508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782418829,
+    "update_time": 1782418829,
+    "_id": "наш мир"
+  },
+  "Четыреста шестьдесят две тысячи пятьсот одиннадцать человек": {
+    "chunk_ids": [
+      "doc-02555b4cb802ac03b0b419f4ee2eb508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782418829,
+    "update_time": 1782418829,
+    "_id": "Четыреста шестьдесят две тысячи пятьсот одиннадцать человек"
+  },
+  "institute_of_mathematical_science": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "institute_of_mathematical_science"
+  },
+  "Concept": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "Concept"
+  },
+  "Встреча с Маленьким принцом и его неразделенной планетой в Африке": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "Встреча с Маленьким принцом и его неразделенной планетой в Африке"
+  },
+  "Фонарщика": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "Фонарщика"
+  },
+  "Общая беседа, Сказка о Маленьком принце": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "Общая беседа, Сказка о Маленьком принце"
+  },
+  "Сказка о Маленьком принце": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "Сказка о Маленьком принце"
+  },
+  "Маленький принц спрашивает змею, сможут ли корабль и лапы помочь ему на Земле": {
+    "chunk_ids": [
+      "doc-7b9896410b77cc024d82f44dc965accf-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "Маленький принц спрашивает змею, сможут ли корабль и лапы помочь ему на Земле"
+  },
+  "Вулканы": {
+    "chunk_ids": [
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419413,
+    "update_time": 1782419413,
+    "_id": "Вулканы"
+  },
+  "Потухший вулкан": {
+    "chunk_ids": [
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419413,
+    "update_time": 1782419413,
+    "_id": "Потухший вулкан"
+  },
+  "Эхо": {
+    "chunk_ids": [
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419413,
+    "update_time": 1782419413,
+    "_id": "Эхо"
+  },
+  "У людей не хватает воображения": {
+    "chunk_ids": [
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419413,
+    "update_time": 1782419413,
+    "_id": "У людей не хватает воображения"
+  },
+  "Дома у меня был цветок": {
+    "chunk_ids": [
+      "doc-308d87903d261998c818bf0ed07e7067-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419413,
+    "update_time": 1782419413,
+    "_id": "Дома у меня был цветок"
+  },
+  "дорога": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419493,
+    "update_time": 1782419493,
+    "_id": "дорога"
+  },
+  "сад": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419493,
+    "update_time": 1782419493,
+    "_id": "сад"
+  },
+  "розы": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419493,
+    "update_time": 1782419493,
+    "_id": "розы"
+  },
+  "Добрый день": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000",
+      "doc-15468bcb7ce72586bfabdda9ece08444-chunk-000",
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1782427101,
+    "_id": "Добрый день"
+  },
+  "target_entity: розы": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419493,
+    "update_time": 1782419493,
+    "_id": "target_entity: розы"
+  },
+  "source_entity: Маленький принц": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419493,
+    "update_time": 1782419493,
+    "_id": "source_entity: Маленький принц"
+  },
+  "target_entity: Добрый день": {
+    "chunk_ids": [
+      "doc-a5c45dda9bea440567dafe4c7b25cf01-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782419493,
+    "update_time": 1782419493,
+    "_id": "target_entity: Добрый день"
+  },
+  "стрелочник": {
+    "chunk_ids": [
+      "doc-15468bcb7ce72586bfabdda9ece08444-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782426916,
+    "update_time": 1782426916,
+    "_id": "стрелочник"
+  },
+  "Лис": {
+    "chunk_ids": [
+      "doc-46fdf55d158045ca310db2834879aaf8-chunk-000",
+      "doc-46fdf55d158045ca310db2834879aaf8-chunk-001",
+      "doc-7a5f69411979c59a0575f42c23b45672-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1782427264,
+    "_id": "Лис"
+  },
+  "Вот": {
+    "chunk_ids": [
+      "doc-46fdf55d158045ca310db2834879aaf8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782426968,
+    "update_time": 1782426968,
+    "_id": "Вот"
+  },
+  "роза": {
+    "chunk_ids": [
+      "doc-46fdf55d158045ca310db2834879aaf8-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1782426968,
+    "update_time": 1782426968,
+    "_id": "роза"
+  },
+  "приставки": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "приставки"
+  },
+  "пилюли": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "пилюли"
+  },
+  "экономия": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "экономия"
+  },
+  "минуты": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "минуты"
+  },
+  "родник": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "родник"
+  },
+  "эксперты": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "эксперты"
+  },
+  "торговец": {
+    "chunk_ids": [
+      "doc-60dfb0ba6b57b6233511a50d47891826-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427101,
+    "update_time": 1782427101,
+    "_id": "торговец"
+  },
+  "Я": {
+    "chunk_ids": [
+      "doc-7a5f69411979c59a0575f42c23b45672-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427264,
+    "update_time": 1782427264,
+    "_id": "Я"
+  },
+  "Stars": {
+    "chunk_ids": [
+      "doc-7a5f69411979c59a0575f42c23b45672-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782427264,
+    "update_time": 1782427264,
+    "_id": "Stars"
+  }
+}

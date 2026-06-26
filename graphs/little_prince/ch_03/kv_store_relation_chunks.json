@@ -1,0 +1,83 @@
+{
+  "Джунгли<SEP>Удав": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Джунгли<SEP>Удав"
+  },
+  "Летчик<SEP>Художник": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Летчик<SEP>Художник"
+  },
+  "Учитель<SEP>Художник": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Учитель<SEP>Художник"
+  },
+  "Удав<SEP>Учитель": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Удав<SEP>Учитель"
+  },
+  "Джунгли<SEP>Учитель": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Джунгли<SEP>Учитель"
+  },
+  "Слон<SEP>Удав": {
+    "chunk_ids": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "Слон<SEP>Удав"
+  },
+  "Маленький принц<SEP>Тот человек": {
+    "chunk_ids": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "Маленький принц<SEP>Тот человек"
+  },
+  "Person<SEP>Маленький принц": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Person<SEP>Маленький принц"
+  },
+  "Person<SEP>Автор": {
+    "chunk_ids": [
+      "doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "Person<SEP>Автор"
+  }
+}

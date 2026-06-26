@@ -1,0 +1,253 @@
+{
+  "doc-4bbba4040fb365b4890e658b464d7d8e": {
+    "entity_names": [
+      "Удав",
+      "Джунгли",
+      "Аризона",
+      "Художник",
+      "Слон",
+      "Учитель",
+      "Китай",
+      "Летчик"
+    ],
+    "count": 8,
+    "create_time": 1782404249,
+    "update_time": 1782404249,
+    "_id": "doc-4bbba4040fb365b4890e658b464d7d8e"
+  },
+  "doc-265544bb40b451cd313707a2a4b33ff4": {
+    "entity_names": [
+      "Тот человек",
+      "Маленький принц",
+      "Маленький человечек"
+    ],
+    "count": 3,
+    "create_time": 1782404321,
+    "update_time": 1782404321,
+    "_id": "doc-265544bb40b451cd313707a2a4b33ff4"
+  },
+  "doc-6b2ba88f29d6d77fed85771bc5dc9981": {
+    "entity_names": [
+      "Person",
+      "Автор"
+    ],
+    "count": 2,
+    "create_time": 1782408633,
+    "update_time": 1782408633,
+    "_id": "doc-6b2ba88f29d6d77fed85771bc5dc9981"
+  },
+  "doc-adc6c168dbb425d9ece24d5bc28b2fcc": {
+    "entity_names": [
+      "астероид В-612",
+      "Маленький принц",
+      "турецкий астроном",
+      "Земля",
+      "мой друг",
+      "западных детей",
+      "цифры",
+      "Марс",
+      "Венера",
+      "бабочки",
+      "взрослые",
+      "взрослых",
+      "твой друг",
+      "красивый дом",
+      "бабочек",
+      "дети",
+      "твоего друга",
+      "Мой друг"
+    ],
+    "count": 18,
+    "create_time": 1782408887,
+    "update_time": 1782408887,
+    "_id": "doc-adc6c168dbb425d9ece24d5bc28b2fcc"
+  },
+  "doc-1b8b1d20aa2c3a367e6898ef909e1830": {
+    "entity_names": [
+      "Маленький принц",
+      "Троех кустов"
+    ],
+    "count": 2,
+    "create_time": 1782408993,
+    "update_time": 1782408993,
+    "_id": "doc-1b8b1d20aa2c3a367e6898ef909e1830"
+  },
+  "doc-d41c40884fe33b1d66e53c60eb262f25": {
+    "entity_names": [
+      "Ты видел сорок три заката.",
+      "Знаешь… когда станет очень грустно, хорошо поглядеть, как заходит солнце…",
+      "Я очень люблю закат.",
+      "Понемногу я понял также, как печальна и однообразна была твоя жизнь.",
+      "Маленький принц!",
+      "Солнце зашло.",
+      "О Маленький принц!"
+    ],
+    "count": 7,
+    "create_time": 1782409056,
+    "update_time": 1782409056,
+    "_id": "doc-d41c40884fe33b1d66e53c60eb262f25"
+  },
+  "doc-7ff80b28ae61d87cbbd16fc2977b0881": {
+    "entity_names": [
+      "Маленький принц",
+      "Цветку",
+      "Барашек",
+      "Цветок",
+      "barashek",
+      "Barashhek",
+      "барашек"
+    ],
+    "count": 7,
+    "create_time": 1782409232,
+    "update_time": 1782409232,
+    "_id": "doc-7ff80b28ae61d87cbbd16fc2977b0881"
+  },
+  "doc-a4e544d8de8adf2c2d92737023d20063": {
+    "entity_names": [
+      "Очень скоро я лучше узнал этот цветок",
+      "Маленький принц",
+      "неведомая гостья"
+    ],
+    "count": 3,
+    "create_time": 1782409521,
+    "update_time": 1782409521,
+    "_id": "doc-a4e544d8de8adf2c2d92737023d20063"
+  },
+  "doc-483c61454a03ee080cf5d72363c83c1b": {
+    "entity_names": [
+      "Маленький принц",
+      "баробабов",
+      "красавица"
+    ],
+    "count": 3,
+    "create_time": 1782409603,
+    "update_time": 1782409603,
+    "_id": "doc-483c61454a03ee080cf5d72363c83c1b"
+  },
+  "doc-80bf0fd8d2ff27add315189775433556": {
+    "entity_names": [
+      "Old Rat",
+      "Answer People",
+      "The Little Prince",
+      "Request King",
+      "King",
+      "Respond Authority People",
+      "Corporal Power",
+      "Allow People",
+      "The King",
+      "Corporation King",
+      "Command King",
+      "Nobbling Prince",
+      "Artifact",
+      "Reflect People",
+      "Астероиды 325-330",
+      "Order People",
+      "Question Authority King",
+      "Король",
+      "Subordinate People",
+      "Question King"
+    ],
+    "count": 20,
+    "create_time": 1782413013,
+    "update_time": 1782413013,
+    "_id": "doc-80bf0fd8d2ff27add315189775433556"
+  },
+  "doc-f22f66c8caa291e65e02b802daf878c8": {
+    "entity_names": [
+      "Маленький принц",
+      "Честолюбец"
+    ],
+    "count": 2,
+    "create_time": 1782413081,
+    "update_time": 1782413081,
+    "_id": "doc-f22f66c8caa291e65e02b802daf878c8"
+  },
+  "doc-b26c7bacf26ef15a3a45c68b68f9b575": {
+    "entity_names": [
+      "пьяница"
+    ],
+    "count": 1,
+    "create_time": 1782413129,
+    "update_time": 1782413129,
+    "_id": "doc-b26c7bacf26ef15a3a45c68b68f9b575"
+  },
+  "doc-2893ddee83e92a02b0b7d4a6d9224c42": {
+    "entity_names": [
+      "человеку",
+      "Маленький принц",
+      "Четвертая планета",
+      "Этого",
+      "Institute of Advanced Studies",
+      "деловому человеку",
+      "Маленького принца",
+      "Четвертой планете"
+    ],
+    "count": 8,
+    "create_time": 1782413528,
+    "update_time": 1782413528,
+    "_id": "doc-2893ddee83e92a02b0b7d4a6d9224c42"
+  },
+  "doc-182370cff63e636c1b45ff0038b36f2d": {
+    "entity_names": [
+      "Фонарщик",
+      "Маленький принц",
+      "Пятая планета",
+      "Фонарь"
+    ],
+    "count": 4,
+    "create_time": 1782413793,
+    "update_time": 1782413793,
+    "_id": "doc-182370cff63e636c1b45ff0038b36f2d"
+  },
+  "doc-63642680210ac7cc8853ae5971b0f48c": {
+    "entity_names": [
+      "Маленький принц",
+      "Старик",
+      "Смотрите-ка! Вот прибыл путешественник!",
+      "Цветок на его планете",
+      "Географ",
+      "UNICORNS"
+    ],
+    "count": 6,
+    "create_time": 1782418663,
+    "update_time": 1782418663,
+    "_id": "doc-63642680210ac7cc8853ae5971b0f48c"
+  },
+  "doc-02555b4cb802ac03b0b419f4ee2eb508": {
+    "entity_names": [
+      "наш мир",
+      "Четыреста шестьдесят две тысячи пятьсот одиннадцать человек",
+      "Итак",
+      "Земля"
+    ],
+    "count": 4,
+    "create_time": 1782418829,
+    "update_time": 1782418829,
+    "_id": "doc-02555b4cb802ac03b0b419f4ee2eb508"
+  },
+  "doc-7b9896410b77cc024d82f44dc965accf": {
+    "entity_names": [
+      "Встреча с Маленьким принцом и его неразделенной планетой в Африке",
+      "Общая беседа, Сказка о Маленьком принце",
+      "Фонарщика",
+      "Concept",
+      "Маленький принц спрашивает змею, сможут ли корабль и лапы помочь ему на Земле",
+      "Сказка о Маленьком принце",
+      "institute_of_mathematical_science"
+    ],
+    "count": 7,
+    "create_time": 1782419327,
+    "update_time": 1782419327,
+    "_id": "doc-7b9896410b77cc024d82f44dc965accf"
+  },
+  "doc-b2ddc1d164c8ac85ef4ad08ae708f127": {
+    "entity_names": [
+      "Цветок",
+      "Маленький принц"
+    ],
+    "count": 2,
+    "create_time": 1782419368,
+    "update_time": 1782419368,
+    "_id": "doc-b2ddc1d164c8ac85ef4ad08ae708f127"
+  }
+}

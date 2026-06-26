@@ -1,0 +1,57 @@
+{
+  "doc-4bbba4040fb365b4890e658b464d7d8e": {
+    "status": "processed",
+    "content_summary": ".\n\nКогда мне было шесть лет, в книге под названием «Правдивые истории», где рассказывалось про девственные леса, я увидел однажды удивительную картинку. На картинке огромная змея — удав — глотала хищного зверя. Вот как это было нарисовано:\n\nВ книге г...",
+    "content_length": 2162,
+    "created_at": "2026-06-26T08:01:46.012281+00:00",
+    "updated_at": "2026-06-26T08:13:19.046988+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_150146_790b9f5f",
+    "content_hash": "4bbba4040fb365b4890e658b464d7d8e",
+    "metadata": {
+      "parse_start_time": 1782460906,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782460906,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782460906,
+      "process_end_time": 1782461599,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000",
+      "doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001"
+    ]
+  },
+  "doc-265544bb40b451cd313707a2a4b33ff4": {
+    "status": "processed",
+    "content_summary": ".\n\nТак я жил в одиночестве, и не с кем было мне поговорить по душам. И вот шесть лет тому назад пришлось мне сделать вынужденную посадку в Сахаре. Что-то сломалось в моторе моего самолета. Со мной не было ни механика, ни пассажиров, и я решил, что по...",
+    "content_length": 3421,
+    "created_at": "2026-06-26T08:13:27.111629+00:00",
+    "updated_at": "2026-06-26T08:17:41.831709+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260626_151327_3a51bfb8",
+    "content_hash": "265544bb40b451cd313707a2a4b33ff4",
+    "metadata": {
+      "parse_start_time": 1782461607,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1782461607,
+      "analyzing_stage_skipped": true,
+      "process_start_time": 1782461607,
+      "process_end_time": 1782461861,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=500, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-000",
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-001",
+      "doc-265544bb40b451cd313707a2a4b33ff4-chunk-002"
+    ]
+  }
+}

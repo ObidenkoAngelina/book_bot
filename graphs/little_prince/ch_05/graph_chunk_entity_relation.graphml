@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Удав">
+      <data key="d0">Удав</data>
+      <data key="d1">creature</data>
+      <data key="d2">Mythical snake that swallowed an elephant in the illustration and was compared to a hat by adults. Original name: удав, which is a type of large Asian snake.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Джунгли">
+      <data key="d0">Джунгли</data>
+      <data key="d1">location</data>
+      <data key="d2">Vast tropical rainforest where the story takes place, specifically referring to the dense jungle with mythological creatures like the giant snake. Original name: джунгли.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Учитель">
+      <data key="d0">Учитель</data>
+      <data key="d1">person</data>
+      <data key="d2">Adult who advised the narrator not to draw outside of his understanding and expertise, especially about animals and geography. Original name: учитель.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Художник">
+      <data key="d0">Художник</data>
+      <data key="d1">person</data>
+      <data key="d2">Childhood aspiration of the narrator, a profession that he gave up after failing at drawing an inside-out snake and being ridiculed by adults. Original name: художник.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Летчик">
+      <data key="d0">Летчик</data>
+      <data key="d1">person</data>
+      <data key="d2">Another career chosen after abandoning childhood aspirations to become an artist. Original name: летчик.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Китай">
+      <data key="d0">Китай</data>
+      <data key="d1">location</data>
+      <data key="d2">Country in East Asia, where the narrator mentioned it can be distinguished from Arizona. Original name: Китай.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Аризона">
+      <data key="d0">Аризона</data>
+      <data key="d1">location</data>
+      <data key="d2">State of United States, used by the narrator as a comparison to distinguish between different places. Original name: Аризона.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Слон">
+      <data key="d0">Слон</data>
+      <data key="d1">creature</data>
+      <data key="d2">The large mammal that was swallowed by the giant snake.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404249</data>
+      <data key="d6" />
+    </node>
+    <node id="Тот человек">
+      <data key="d0">Тот человек</data>
+      <data key="d1">person</data>
+      <data key="d2">Human individual who survived a plane crash in the Sahara desert and decided to fix his broken engine alone for survival.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404321</data>
+      <data key="d6" />
+    </node>
+    <node id="Маленький принц">
+      <data key="d0">Маленький принц</data>
+      <data key="d1">person</data>
+      <data key="d2">A young boy appearing as an otherworldly visitor from space, whose existence is unexplained and leads to adventures with the narrator.&lt;SEP&gt;Unnamed prince who lived on a planet smaller than himself and desired a companion.&lt;SEP&gt;Unnamed prince who lived on a planet full of plants and creatures, with the ability to understand the significance of small seeds that could become huge baobabs. He was curious about his surroundings, especially the baobabs and their impact.&lt;SEP&gt;Unnamed prince who lived on a planet full of plants and creatures, with the ability to understand the significance of small seeds that could become huge baobabs. He was also able to draw pictures to help others understand the importance.&lt;SEP&gt;Unnamed prince who lived on a planet full of plants and creatures, with the ability to understand the significance of small seeds that could become huge baobabs. He tried to warn others about the potential dangers of baobabs.&lt;SEP&gt;Unnamed prince who lived on a planet full of plants and creatures, with the ability to understand the significance of small seeds that could become huge baobabs. He warned about the dangers of baobabs.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000&lt;SEP&gt;doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000&lt;SEP&gt;doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000&lt;SEP&gt;doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408993</data>
+      <data key="d6" />
+    </node>
+    <node id="Маленький человечек">
+      <data key="d0">Маленький человечек</data>
+      <data key="d1">person</data>
+      <data key="d2">Child appearing as an otherworldly visitor from space.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782404321</data>
+      <data key="d6" />
+    </node>
+    <node id="Person">
+      <data key="d0">Person</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408633</data>
+      <data key="d6" />
+    </node>
+    <node id="Автор">
+      <data key="d0">Автор</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d2">}</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408633</data>
+      <data key="d6" />
+    </node>
+    <node id="Земля">
+      <data key="d0">Земля</data>
+      <data key="d1">location</data>
+      <data key="d2">Earth, the home planet of the Prince.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="Марс">
+      <data key="d0">Марс</data>
+      <data key="d1">location</data>
+      <data key="d2">Mars, another planet in the solar system.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="Венера">
+      <data key="d0">Венера</data>
+      <data key="d1">location</data>
+      <data key="d2">Venus, another planet in the solar system.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="астероид В-612">
+      <data key="d0">астероид В-612</data>
+      <data key="d1">artifact</data>
+      <data key="d2">An asteroid observed by a Turkish astronomer in 1909.</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="Мой друг">
+      <data key="d0">Мой друг</data>
+      <data key="d1">person</data>
+      <data key="d2">Friend?&gt;</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="взрослых">
+      <data key="d0">взрослых</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">children&lt;SEP&gt;friends&lt;SEP&gt;adults</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="мой друг">
+      <data key="d0">мой друг</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">children&lt;SEP&gt;friends&lt;SEP&gt;adults</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="взрослые">
+      <data key="d0">взрослые</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">questions_from_children</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="турецкий астроном">
+      <data key="d0">турецкий астроном</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">sultan's_command</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="бабочек">
+      <data key="d0">бабочек</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">adults</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="твой друг">
+      <data key="d0">твой друг</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">adults</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="твоего друга">
+      <data key="d0">твоего друга</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">the_world</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="бабочки">
+      <data key="d0">бабочки</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">friends</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="западных детей">
+      <data key="d0">западных детей</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">parents</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="красивый дом">
+      <data key="d0">красивый дом</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">children</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="дети">
+      <data key="d0">дети</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">friends</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="цифры">
+      <data key="d0">цифры</data>
+      <data key="d3">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d2">the_world</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408887</data>
+      <data key="d6" />
+    </node>
+    <node id="Троех кустов">
+      <data key="d0">Троех кустов</data>
+      <data key="d1">concept</data>
+      <data key="d2">Three bushes the prince mentioned, which were mistaken for baobabs.</data>
+      <data key="d3">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782408993</data>
+      <data key="d6" />
+    </node>
+    <edge source="Удав" target="Джунгли">
+      <data key="d7">2.0</data>
+      <data key="d8">The story takes place in a dense jungle where giant snakes like this are found.&lt;SEP&gt;The giant snake is seen in the jungle and is part of its mythos.</data>
+      <data key="d9">dangerous animals,habitat,living environment,mythological creatures</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404249</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Удав" target="Учитель">
+      <data key="d7">1.0</data>
+      <data key="d8">Adults compared the snake's shape to a human head.</data>
+      <data key="d9">comparable to a hat</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404249</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Удав" target="Слон">
+      <data key="d7">1.0</data>
+      <data key="d8">The giant snake ate and swallowed the elephant-sized animal.</data>
+      <data key="d9">prey,swallowed</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404249</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Джунгли" target="Учитель">
+      <data key="d7">1.0</data>
+      <data key="d8">The adult advised not to draw outside their field of expertise.</data>
+      <data key="d9">subject area,teaching material</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404249</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Учитель" target="Художник">
+      <data key="d7">1.0</data>
+      <data key="d8">Adults criticized and ridiculed the child's drawings of inside-out snakes.</data>
+      <data key="d9">advice,criticism</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404249</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Художник" target="Летчик">
+      <data key="d7">2.0</data>
+      <data key="d8">The narrator gave up his childhood aspiration for a new career path in aviation after failing at the current one.&lt;SEP&gt;The narrator switched from being an artist to becoming a pilot after giving up his childhood aspiration.</data>
+      <data key="d9">career change,desertion of profession,profession shift</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404249</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Тот человек" target="Маленький принц">
+      <data key="d7">1.0</data>
+      <data key="d8">Appears in narrator's story after surviving a plane crash and encounters an otherworldly visitor from space.</data>
+      <data key="d9">appears_in_their_adventure</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782404321</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Person">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">Unknown prince in the novel "The Little Prince"</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408633</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="астероид В-612">
+      <data key="d7">1.0</data>
+      <data key="d8">an asteroid</data>
+      <data key="d9">was_from</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="взрослые">
+      <data key="d7">1.0</data>
+      <data key="d8">questions_from_children</data>
+      <data key="d9">ignored</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="мой друг">
+      <data key="d7">3.0</data>
+      <data key="d8">painting_and_coloring&lt;SEP&gt;the_world&lt;SEP&gt;children</data>
+      <data key="d9">was_loved_by,was_saved_by,would_be_forgotten_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="твой друг">
+      <data key="d7">1.0</data>
+      <data key="d8">adults</data>
+      <data key="d9">was_touched_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="твоего друга">
+      <data key="d7">1.0</data>
+      <data key="d8">the_world</data>
+      <data key="d9">was_lost_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="бабочки">
+      <data key="d7">1.0</data>
+      <data key="d8">friends</data>
+      <data key="d9">was_loved_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="западных детей">
+      <data key="d7">1.0</data>
+      <data key="d8">parents</data>
+      <data key="d9">was_lost_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="красивый дом">
+      <data key="d7">1.0</data>
+      <data key="d8">children</data>
+      <data key="d9">was_loved_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="дети">
+      <data key="d7">1.0</data>
+      <data key="d8">friends</data>
+      <data key="d9">was_loved_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="цифры">
+      <data key="d7">1.0</data>
+      <data key="d8">the_world</data>
+      <data key="d9">was_forgotten_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Троех кустов">
+      <data key="d7">3.0</data>
+      <data key="d8">The prince mistakenly thought the three bushes were a kind of baobab, indicating that he did not realize their true nature and potential danger.&lt;SEP&gt;The prince mentioned these bushes to warn others about the dangers they might pose if not managed properly.&lt;SEP&gt;The prince warned others about the potential dangers these bushes might pose if not managed properly.</data>
+      <data key="d9">caution,eats</data>
+      <data key="d10">doc-1b8b1d20aa2c3a367e6898ef909e1830-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408993</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Person" target="Автор">
+      <data key="d7">1.0</data>
+      <data key="d8">}</data>
+      <data key="d9">Novelist or author writing about the Little Prince'</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408633</data>
+      <data key="d13" />
+    </edge>
+    <edge source="астероид В-612" target="взрослые">
+      <data key="d7">2.0</data>
+      <data key="d8">astronomer's_discovery</data>
+      <data key="d9">believed_in</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="астероид В-612" target="турецкий астроном">
+      <data key="d7">1.0</data>
+      <data key="d8">sultan's_command</data>
+      <data key="d9">was_confirmed_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="взрослых" target="мой друг">
+      <data key="d7">3.0</data>
+      <data key="d8">children&lt;SEP&gt;friends&lt;SEP&gt;adults</data>
+      <data key="d9">admired_by,believed_as,is_ignored_by</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="мой друг" target="бабочек">
+      <data key="d7">1.0</data>
+      <data key="d8">adults</data>
+      <data key="d9">is_not_interesting_to</data>
+      <data key="d10">doc-adc6c168dbb425d9ece24d5bc28b2fcc-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782408887</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

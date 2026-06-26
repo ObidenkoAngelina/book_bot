@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Удав">
+      <data key="d0">Удав</data>
+      <data key="d1">creature</data>
+      <data key="d2">Fictional snake with the ability to swallow large prey whole and remain immobile for 6 months after doing so, as mentioned in the text.&lt;SEP&gt;Large snake with a habit of swallowing its prey whole and resting for 6 months after doing so. A fictional creature from the text.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Хищный зверь">
+      <data key="d0">Хищный зверь</data>
+      <data key="d1">creature</data>
+      <data key="d2">Wild animal that is preyed upon by the snake in the text.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Джунгли">
+      <data key="d0">Джунгли</data>
+      <data key="d1">location</data>
+      <data key="d2">Wild jungle where the story takes place and which is mentioned as having thrilling adventures.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Шляпа">
+      <data key="d0">Шляпа</data>
+      <data key="d1">content</data>
+      <data key="d2">Hat that was interpreted by the child to be a representation of the inside of the snake, as mentioned in the text.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Взрослые">
+      <data key="d0">Взрослые</data>
+      <data key="d1">organization</data>
+      <data key="d2">Adults or older individuals mentioned in the text as characters who are described and interacted with by the child.</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Китай">
+      <data key="d0">Китай</data>
+      <data key="d1">location</data>
+      <data key="d2">Geographical place in East Asia and one of the five ancient civilizations</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Аризону">
+      <data key="d0">Аризону</data>
+      <data key="d1">location</data>
+      <data key="d2">State in southwestern United States</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="свет. И география, по правде сказать, мне очень пригодилась.">
+      <data key="d0">свет. И география, по правде сказать, мне очень пригодилась.</data>
+      <data key="d1">other</data>
+      <data key="d2">Description of the relevance of geography and the author's experience with it</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="много">
+      <data key="d0">много</data>
+      <data key="d1">data</data>
+      <data key="d2">Amount of encounters with different serious people over time</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="взрослых. Я долго жил среди взрослых.">
+      <data key="d0">взрослых. Я долго жил среди взрослых.</data>
+      <data key="d1">other</data>
+      <data key="d2">Description of the author's life among adults for a long period of time</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="взрослого, который казался мне разумней и понятливей других">
+      <data key="d0">взрослого, который казался мне разумней и понятливей других</data>
+      <data key="d1">person</data>
+      <data key="d2">A person who appears more intelligent and easier to understand than others</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Казался мне разумней и понятливей других.">
+      <data key="d0">Казался мне разумней и понятливей других.</data>
+      <data key="d1">other</data>
+      <data key="d2">Description of the perception by the author</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="записал рисунок №1 - я его сохранил и всегда носил с собою.">
+      <data key="d0">записал рисунок №1 - я его сохранил и всегда носил с собою.</data>
+      <data key="d1">content</data>
+      <data key="d2">The author kept and always carried a sketch number 1 which he drew</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="нужно было знать, вправду ли этот человек что-то понимает. Но все они отвечали ему: «Это шляпа». И я уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.">
+      <data key="d0">нужно было знать, вправду ли этот человек что-то понимает. Но все они отвечали ему: «Это шляпа». И я уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.</data>
+      <data key="d1">event</data>
+      <data key="d2">The author’s interaction with adults and their responses to his questions</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.">
+      <data key="d0">уже не говорил с ними ни об удавах, ни о джунглях, ни о звездах.</data>
+      <data key="d1">event</data>
+      <data key="d2">The author stopped talking about certain topics with these people due to their responses</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Arizona">
+      <data key="d0">Arizona</data>
+      <data key="d1">location</data>
+      <data key="d2">State in southwestern United States</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Udav">
+      <data key="d0">Udav</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d2">The character feared the real-life creature described in the story.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="主人公">
+      <data key="d0">主人公</data>
+      <data key="d3">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d2">The character feared the real-life creature described in the story.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461599</data>
+      <data key="d6" />
+    </node>
+    <node id="Person">
+      <data key="d0">Person</data>
+      <data key="d1">person</data>
+      <data key="d2">Human being experiencing isolation and survival in the desert.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Artifact">
+      <data key="d0">Artifact</data>
+      <data key="d1">data</data>
+      <data key="d2">Information about a broken airplane engine and resources available during the desert landing.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Малыш">
+      <data key="d0">Малыш</data>
+      <data key="d1">person</data>
+      <data key="d2">Lost child in the desert&lt;SEP&gt;Unnamed character in the text</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001&lt;SEP&gt;doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Персонаж">
+      <data key="d0">Персонаж</data>
+      <data key="d1">person</data>
+      <data key="d2">Unknown character</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Змея">
+      <data key="d0">Змея</data>
+      <data key="d1">other</data>
+      <data key="d2">Snake</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Баран">
+      <data key="d0">Баран</data>
+      <data key="d1">other</data>
+      <data key="d2">Bull</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="не барашек">
+      <data key="d0">не барашек</data>
+      <data key="d1">person</data>
+      <data key="d2">Human individual mentioned in the text, a fictional character in the story.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="баран">
+      <data key="d0">баран</data>
+      <data key="d1">concept</data>
+      <data key="d2">An abstract idea or concept, possibly referring to 'bull' in this context as it's part of the name "барашек".</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002&lt;SEP&gt;doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="малышу">
+      <data key="d0">малышу</data>
+      <data key="d1">person</data>
+      <data key="d2">A fictional character mentioned in the text.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="судья">
+      <data key="d0">судья</data>
+      <data key="d1">person</data>
+      <data key="d2">A judge or person who makes decisions, appearing in a hypothetical scenario within the story.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Маленького принца">
+      <data key="d0">Маленького принца</data>
+      <data key="d1">other</data>
+      <data key="d2">The name of a character introduced in the story.</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="он">
+      <data key="d0">он</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="змея">
+      <data key="d0">змея</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="персонаж">
+      <data key="d0">персонаж</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="ящик">
+      <data key="d0">ящик</data>
+      <data key="d3">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d2">Undirected</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782461861</data>
+      <data key="d6" />
+    </node>
+    <node id="Маленький принц">
+      <data key="d0">Маленький принц</data>
+      <data key="d1">person</data>
+      <data key="d2">Unnamed character in the text&lt;SEP&gt;Princess Ali Baba's son from the desert, a young prince who is lost in space and time.</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000&lt;SEP&gt;doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Мой самолет">
+      <data key="d0">Мой самолет</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The narrator's toy airplane that represents his only means of escape to Earth.</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Барашек">
+      <data key="d0">Барашек</data>
+      <data key="d1">concept</data>
+      <data key="d2">Unnamed concept introduced in the text</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Ты">
+      <data key="d0">Ты</data>
+      <data key="d1">other</data>
+      <data key="d2">Unnamed pronoun used in text</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="myself">
+      <data key="d0">myself</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d2">Questions the airplane and learns about its creator.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Друг">
+      <data key="d0">Друг</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">friendliness</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Дом">
+      <data key="d0">Дом</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">habitat, shelter</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Ящик">
+      <data key="d0">Ящик</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">storage place for the barashok</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Веревка">
+      <data key="d0">Веревка</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">leaving a pet free to roam</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <node id="Колышек">
+      <data key="d0">Колышек</data>
+      <data key="d3">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d2">using a dollhouse as a plaything</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1782462064</data>
+      <data key="d6" />
+    </node>
+    <edge source="Удав" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character fears a fictional snake creature described in the text.</data>
+      <data key="d9">fears</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Хищный зверь" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character was prey to the fictional creature described in the story.</data>
+      <data key="d9">prey</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Джунгли" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character imagined a thrilling adventure in the jungle setting described in the text.</data>
+      <data key="d9">imagined_adventure</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Шляпа" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character misunderstood the hat to represent the inside of the snake.</data>
+      <data key="d9">misunderstood_representation</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Взрослые" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character questioned adults about the fictional snake creature depicted in the texts.</data>
+      <data key="d9">questioned</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Udav" target="主人公">
+      <data key="d7">1.0</data>
+      <data key="d8">The character feared the real-life creature described in the story.</data>
+      <data key="d9">feared</data>
+      <data key="d10">doc-4bbba4040fb365b4890e658b464d7d8e-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461599</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Person" target="Artifact">
+      <data key="d7">1.0</data>
+      <data key="d8">Desperate person seeks assistance from an unusual entity encountered in the desert.</data>
+      <data key="d9">Information about a broken airplane engine and resources available during the desert landing</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="он">
+      <data key="d7">1.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">was seeking for help</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="персонаж">
+      <data key="d7">4.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">described the new drawing as bull,lost patience with illustration request,refused older drawing of bull,sought for illustration</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Барашек">
+      <data key="d7">1.0</data>
+      <data key="d8">child playing with an imaginary pet</data>
+      <data key="d9">для угощения</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Друг">
+      <data key="d7">1.0</data>
+      <data key="d8">friendliness</data>
+      <data key="d9">сообщение</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Дом">
+      <data key="d7">1.0</data>
+      <data key="d8">habitat, shelter</data>
+      <data key="d9">обитель</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Малыш" target="Маленький принц">
+      <data key="d7">1.0</data>
+      <data key="d8">child being confident and understanding geography</data>
+      <data key="d9">знание местности,самоуверенность</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Персонаж" target="змея">
+      <data key="d7">1.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">needed illustration of snake</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Персонаж" target="баран">
+      <data key="d7">3.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">desired a longer-living bull,desired a younger-looking bull,requested a new drawing of bull</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Персонаж" target="ящик">
+      <data key="d7">1.0</data>
+      <data key="d8">Undirected</data>
+      <data key="d9">provided the child with an empty box</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="не барашек" target="баран">
+      <data key="d7">1.0</data>
+      <data key="d8">a human individual is described as resembling a barashok.</data>
+      <data key="d9">barashok,bull</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="не барашек" target="Маленького принца">
+      <data key="d7">1.0</data>
+      <data key="d8">A small barashok is given to the Little Prince.</data>
+      <data key="d9">providing food,providing nourishment</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="баран" target="малышу">
+      <data key="d7">1.0</data>
+      <data key="d8">The barashok is given to the little boy.</data>
+      <data key="d9">giving,providing</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="судья" target="Маленького принца">
+      <data key="d7">1.0</data>
+      <data key="d8">The judge is described as being amazed at the Little Prince's response to the barashok.</data>
+      <data key="d9">amazed,impressed</data>
+      <data key="d10">doc-265544bb40b451cd313707a2a4b33ff4-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782461861</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="myself">
+      <data key="d7">1.0</data>
+      <data key="d8">Questions the airplane and learns about its creator.</data>
+      <data key="d9">asked_the_same_question</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Мой самолет">
+      <data key="d7">1.0</data>
+      <data key="d8">The narrator learns about the airplane from the prince.</data>
+      <data key="d9">learned_about_</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Барашек">
+      <data key="d7">1.0</data>
+      <data key="d8">child understanding and managing the situation</data>
+      <data key="d9">для угощения,знание местности,самоуверенность</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Ящик">
+      <data key="d7">1.0</data>
+      <data key="d8">storage place for the barashok</data>
+      <data key="d9">сохранение,хранение</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Друг">
+      <data key="d7">1.0</data>
+      <data key="d8">friend's humorous response</data>
+      <data key="d9">общение,шутка</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Веревка">
+      <data key="d7">1.0</data>
+      <data key="d8">leaving a pet free to roam</data>
+      <data key="d9">воздержание от привязывания</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Колышек">
+      <data key="d7">1.0</data>
+      <data key="d8">using a dollhouse as a plaything</data>
+      <data key="d9">для угощения,осмотрительность</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Маленький принц" target="Дом">
+      <data key="d7">1.0</data>
+      <data key="d8">place of residence</data>
+      <data key="d9">обитель</data>
+      <data key="d10">doc-6b2ba88f29d6d77fed85771bc5dc9981-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1782462064</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>
