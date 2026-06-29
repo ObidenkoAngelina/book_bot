@@ -143,5 +143,177 @@
     "create_time": 1782488929,
     "update_time": 1782488929,
     "_id": "naive:query:23fd50991af82f74525d7e68b80297f5"
+  },
+  "hybrid:keywords:dfed40f40bb82dafb53e33ad16b0d9fd": {
+    "return": "{\"high_level_keywords\": [\"storyteller's drawing\", \"childhood\"], \"low_level_keywords\": [\"little prince\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что нарисовал рассказчик в детстве?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1782494232,
+    "update_time": 1782494232,
+    "_id": "hybrid:keywords:dfed40f40bb82dafb53e33ad16b0d9fd"
+  },
+  "hybrid:query:b47fee1afe7640bfb03c6fd9b18bd204": {
+    "return": " В детстве рассказчик нарисовал два рисунка: рисунок №1 - огромную змею (удава), которая глотала хищного зверя; и рисунок №2 - удав изнутри.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что нарисовал рассказчик в детстве?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "storyteller's drawing, childhood",
+      "ll_keywords": "little prince",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1782494461,
+    "update_time": 1782494461,
+    "_id": "hybrid:query:b47fee1afe7640bfb03c6fd9b18bd204"
+  },
+  "hybrid:keywords:7b6e3b28281739a0e6023ac0a8013ef9": {
+    "return": "{\"high_level_keywords\": [\"hat\", \"adults\"], \"low_level_keywords\": [\"shapka\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что взрослые приняли за шляпу?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1782494714,
+    "update_time": 1782494714,
+    "_id": "hybrid:keywords:7b6e3b28281739a0e6023ac0a8013ef9"
+  },
+  "hybrid:query:7b11ea0f78abbded890ae07ba3f76aac": {
+    "return": " Взрослые приняли за шляпу рисунок №1, который главный герой нарисовал в книге \"Маленький принц\". Это был удав, глотающий хищного зверя.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что взрослые приняли за шляпу?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "hat, adults",
+      "ll_keywords": "shapka",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1782494984,
+    "update_time": 1782494984,
+    "_id": "hybrid:query:7b11ea0f78abbded890ae07ba3f76aac"
+  },
+  "hybrid:keywords:a3507a8a989dd20c78a426e6b763fe2b": {
+    "return": "{\"high_level_keywords\": [\"advice\", \"study\"], \"low_level_keywords\": [\"adults\", \"book\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что взрослые посоветовали изучать?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1782495109,
+    "update_time": 1782495109,
+    "_id": "hybrid:keywords:a3507a8a989dd20c78a426e6b763fe2b"
+  },
+  "hybrid:query:2169dbd3f1bf21d4a54077811e680829": {
+    "return": " Взрослые посоветовали изучать географию, историю, арифметику и правописание.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что взрослые посоветовали изучать?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "advice, study",
+      "ll_keywords": "adults, book",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1782495324,
+    "update_time": 1782495324,
+    "_id": "hybrid:query:2169dbd3f1bf21d4a54077811e680829"
+  },
+  "hybrid:keywords:f7e42df16c627777f46aff09c4aef5c2": {
+    "return": "{\"high_level_keywords\": [\"plane\"], \"low_level_keywords\": [\"aircraft\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что сломалось в самолёте?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1782495374,
+    "update_time": 1782495374,
+    "_id": "hybrid:keywords:f7e42df16c627777f46aff09c4aef5c2"
+  },
+  "hybrid:query:a526525a3235478e3152bf51eee69a89": {
+    "return": " В прочитанных главах нет информации о том, что сломалось в самолёте.",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "Пользователь: Что сломалось в самолёте?\n\nТы — собеседник по книге «Маленький принц2». Прочитано до главы 1.\n\nТвоя задача — отвечать на вопросы ТОЛЬКО по тексту книги.\n\nПравила:\n1. Дай ПРЯМОЙ ответ на вопрос по тексту (кратко, 1-5 предложений).\n2. Если ответа нет в прочитанных главах — скажи честно: 'В прочитанных главах этого нет'.\n3. НЕ выдумывай детали, имена, события, которых нет в тексте.\n4. Если в тексте есть цитата — процитируй её.\n5. НЕ упоминай события из глав 2 и дальше — это спойлеры.\n6. Отвечай на русском языке, кратко и по делу.",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "plane",
+      "ll_keywords": "aircraft",
+      "user_prompt": "",
+      "enable_rerank": true,
+      "enable_content_headings": true
+    },
+    "create_time": 1782495601,
+    "update_time": 1782495601,
+    "_id": "hybrid:query:a526525a3235478e3152bf51eee69a89"
   }
 }
